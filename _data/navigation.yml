@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Research"
-    url: /research.md
+    url: /research/
   - title: "Publications"
-    url: /publications.md
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /publications/
+  - title: "People"
+     url: /people/
+   - title: "Lab Resources"
+     url: /resources/
+   - title: "Contact"
+     url: /contact/
