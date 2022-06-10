@@ -5,8 +5,8 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "People"
-     url: /people/
-   - title: "Lab Resources"
-     url: /resources/
-   - title: "Contact"
-     url: /contact/
+    url: /people/
+  - title: "Lab Resources"
+    url: /resources/
+  - title: "Contact"
+    url: /contact/
