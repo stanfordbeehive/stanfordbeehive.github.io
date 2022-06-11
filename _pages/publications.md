@@ -6,15 +6,15 @@ T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression m
 
 Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692) [Code]
 
-AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156) [Code] (https://github.com/gewirtz/TBLDA)
+AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156) [Code](https://github.com/gewirtz/TBLDA)
 
-B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [bioRxiv](https://www.biorxiv.org/content/10.1101/386540) [Code] [Talk](https://www.youtube.com/watch?v=sDFe3e33m_I)
+B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/386540)] [[Talk](https://www.youtube.com/watch?v=sDFe3e33m_I)]
 
-AJB Chaney, A Verma, Y Lee, BE Engelhardt. Nonparametric deconvolution models. [arXiv](arxiv.org/abs/2003.07718)
+AJB Chaney, A Verma, Y Lee, BE Engelhardt. Nonparametric deconvolution models. [[arXiv](arxiv.org/abs/2003.07718)]
 
 Gao, C., Brown, C. D., & Engelhardt, B. E. A latent factor model with a mixture of sparse and dense factors to model gene expression data affected by technical and biological covariates. [PDF]
 
-Verma, A., & Engelhardt, B. E. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF] [[Code]](https://github.com/architverma1/sc-manifold-alignment)
+Verma, A., & Engelhardt, B. E. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF] [[Code](https://github.com/architverma1/sc-manifold-alignment)]
 
 Grabski, I. N., de Vito, R., & Engelhardt, B. E. Bayesian ordinal quantile regression with a partially collapsed Gibbs sampler. [PDF]
 
