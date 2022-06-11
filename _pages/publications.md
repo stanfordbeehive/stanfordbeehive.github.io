@@ -10,9 +10,9 @@ A Jones, G Gundersen, BE Engelhardt (2022). A Poisson reduced-rank regression mo
 
 T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)
 
-A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692) [Code]
+A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [Code]
 
-AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156) [Code](https://github.com/gewirtz/TBLDA)
+AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156)] [[Code](https://github.com/gewirtz/TBLDA)]
 
 D Li*, A Jones*, BE Engelhardt. Probabilistic contrastive principal component analysis. [PDF] [[Code](https://github.com/andrewcharlesjones/pcpca)]
 
