@@ -6,15 +6,15 @@ T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression m
 
 Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692) [Code]
 
-Gewirtz, A. D., Townes, W. F., & Engelhardt, B. E. (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156) [Code]
+AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156) [Code] (https://github.com/gewirtz/TBLDA)
 
-Dumitrascu, B., Feng, K., & Engelhardt, B. E. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [PDF]
+B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [bioRxiv](https://www.biorxiv.org/content/10.1101/386540) [Code] [Talk](https://www.youtube.com/watch?v=sDFe3e33m_I)
 
-Chaney, A. J. B., Verma, A., Lee, Y., & Engelhardt, B. E. Nonparametric deconvolution models. [PDF]
+AJB Chaney, A Verma, Y Lee, BE Engelhardt. Nonparametric deconvolution models. [arXiv](arxiv.org/abs/2003.07718)
 
 Gao, C., Brown, C. D., & Engelhardt, B. E. A latent factor model with a mixture of sparse and dense factors to model gene expression data affected by technical and biological covariates. [PDF]
 
-Verma, A., & Engelhardt, B. E. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF]
+Verma, A., & Engelhardt, B. E. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF] [[Code]](https://github.com/architverma1/sc-manifold-alignment)
 
 Grabski, I. N., de Vito, R., & Engelhardt, B. E. Bayesian ordinal quantile regression with a partially collapsed Gibbs sampler. [PDF]
 
@@ -40,6 +40,7 @@ Ash*, J., Darnell*, G., Munro*, D., & Engelhardt, B. E.. (2021). Joint analysis 
 
 Dumitrascu, B., Villar, S., Mixon, D. G., & Engelhardt, B. E.. (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. Nature Communications, 12(1186).
 [PDF]
+
 Lu, J., Dumitrascu, B., McDowell, I. C., Barrera, A., K., H. L., Leichter, S. M., Reddy, T. E., & Engelhardt, B. E.. (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. PLoS Computational Biology, 17(1), e1008223.
 [PDF]
 
@@ -50,7 +51,7 @@ Wu, A., Nastase, S. A., Baldassano, C. A., Turk-Browne, N. B., Norman, K. A., En
 [PDF]
 
 Verma, A., Jena, S., Isakov, D. R., Aoki, K., Toettcher, J. E., & Engelhardt, B. E.. (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. Proceedings of the National Academy of Sciences (PNAS), 118, e2026123118.
-[PDF]
+[PDF] [[Code]](https://github.com/architverma1/CPP)
 
 Mandyam, A., Yoo, E. C., Soules, J., Laudanski, K., & Engelhardt, B. E.. (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB).
 [PDF]
@@ -71,7 +72,8 @@ Cheng, L., Darnell, G., Chivers, C., Draugelis, M. E., Li, K., & Engelhardt, B. 
 [PDF]
 
 Camerlenghi*, F., Dumitrascu*, B., Ferrari, F., Engelhardt, B. E., & Favaro, S.. (2020). Nonparametric Bayesian multi-armed bandits for single cell experiment design. Annals of Applied Statistics (AOAS).
-[PDF]
+[PDF] [[Code]](https://github.com/fedfer/HPYsinglecell)
+
 Oliva, M., GTEx Consortium, & others. (2020). The impact of sex on gene expression across human tissues. Science, 369. doi:10.1126/science.aba3066
 [PDF]
 
@@ -82,7 +84,7 @@ Gill, D., Arvanitis, M., Carter, P., Cordero, A. H. I., Jo, B., Karhunen, V., La
 [PDF]
 
 Verma, A., & Engelhardt, B. E. (2020). A robust nonlinear low-dimensional manifold for single cell RNA-seq data. BMC Bioinformatics, 21(324).
-[PDF]
+[PDF] [[Code]](https://github.com/architverma1/tGPLVM)
 
 Elyanow, R., Dumitrascu, B., Engelhardt, B. E., & Raphael, B. J.. (2020). netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis. Genome Research, 20(2), 195–204.
 [PDF]
@@ -103,7 +105,7 @@ McDowell, I. C., Manandhar, D., Vockley, C. M., Schmid, A., Reddy*, T. E., & Eng
 [PDF]
 
 Dumitrascu, B., Darnell, G., Ayroles, J., & Engelhardt, B. E.. (2018). A Bayesian test to identify variance effects. Bioinformatics, bty565.
-[PDF]
+[PDF] [[Code]](https://github.com/b2du/bth)
 
 McDowell, I. C., Barrero, A., D’Ippolito, A. M., Vockley, C. M., Hong, L. K., Leichter, S. M., Bartelt, L. C., Majoros, W. H., Song, L., Safi, A., Koçak, D. D., Gersbach, C. A., Hartemink, A. J., Crawford, G. E., Engelhardt, B. E., & Reddy, T. E.. (2018). Glucocorticoid receptor recruits to enhancers and drives activation by motif-directed binding. Genome Research.
 [PDF]
