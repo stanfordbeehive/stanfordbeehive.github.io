@@ -28,18 +28,18 @@ de Vito, R., Grabski, I. N., Aguiar, D., Schneper, L. M., Verma, A., Castillo Fe
 
 ## Publications
 
-Martinet G, Strzalkowski A, Engelhardt BE (2022). Variance minimization in the Wasserstein space for invariant causal prediction. Artificial Intelligence and Statistics (AISTATS). [PDF]
+Martinet G, Strzalkowski A, Engelhardt BE (2022). Variance minimization in the Wasserstein space for invariant causal prediction. *Artificial Intelligence and Statistics (AISTATS)*. [PDF]
 
-Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. Annals of Applied Statistics (AOAS). [PDF]
+Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF]
 
-Cui, S., Yoo, E. C., Li, D., Laudanski, K., & Engelhardt, B. E.. (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. Proceedings of the Pacific Symposium on Biocomputing (PSB).
+Cui, S., Yoo, E. C., Li, D., Laudanski, K., & Engelhardt, B. E.. (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*.
 [PDF]
 
-Ash*, J., Darnell*, G., Munro*, D., & Engelhardt, B. E.. (2021). Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology. Nature Communications, 12(1609).
-[PDF]
+J Ash*, G Darnell*, D Munro*, BE Engelhardt (2021). Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology. *Nature Communications*, 12(1609).
+[PDF] [[Code]](https://github.com/daniel-munro/imageCCA)
 
-Dumitrascu, B., Villar, S., Mixon, D. G., & Engelhardt, B. E.. (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. Nature Communications, 12(1186).
-[PDF]
+B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications*, 12(1186).
+[PDF] [[Code]](https://github.com/solevillar/scGeneFit-python)
 
 Lu, J., Dumitrascu, B., McDowell, I. C., Barrera, A., K., H. L., Leichter, S. M., Reddy, T. E., & Engelhardt, B. E.. (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. PLoS Computational Biology, 17(1), e1008223.
 [PDF]
