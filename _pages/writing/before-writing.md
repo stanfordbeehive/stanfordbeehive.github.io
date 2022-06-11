@@ -1,8 +1,8 @@
 
 
-#Before writing: Defining your project
+# Before writing: Defining your project
 
-##Overview
+## Overview
 
 In these tips, we focus on research projects that fall into the Methods development category. This means that the main contribution of the paper is often methodological; however, the results should include some novel domain-specific findings that were enabled by the new method.
 
@@ -13,7 +13,7 @@ There are many different types of methods development projects. For example:
 - New data, old methods: Perhaps no one has yet thought to apply this model to this problem in data analysis yet; you also present a new data set
 - Old data, old methods: no one has thought to apply this model to these data yet, even though both have been analyzed. What will this show in these data that other methods haven't already?
 
-##Selecting a topic
+## Selecting a topic
 
 With your data set chosen, you should now discuss with your group what you would like to look at in these data. Be very specific.
 
@@ -29,7 +29,7 @@ Most importantly: can these data be used to support the chosen research topics? 
 
 Finally, motivate this work. If you answer these questions, what will be the contribution to the project domain of the selected topics? What will be the contribution to computer science and computational biology? What will be the contribution to statistical genetics?
 
-##Selecting a Journal
+## Selecting a Journal
 
 Your choice of project should be decided on what interests you the most. When deciding on where to publish your work, however, a number of considerations come into play. There are many factors upon which a journal may be selected for a manuscript. These include:
 
@@ -60,7 +60,7 @@ You might also consider sending a shorter manuscript to a conference that accept
 - RECOMB, ISMB, Pacific Symposium on Biocomputing
 - NeurIPS, ICML, AIStats, UAI
 
-##You have a project; now what?
+## You have a project; now what?
 
 Now you should decide with your group how to organize the work that will go into this project. At a minimum, you will need:
 
@@ -73,7 +73,7 @@ Now you should decide with your group how to organize the work that will go into
 - Write a title. Acknowledge that it will most certainly change.
 
 
-##Project definitions resources
+## Project definitions resources
 
 - Loman & Watson (2013): *So you want to be a computational biologist?*
 - [Google Scholar](scholar.google.com): search the literature
