@@ -1,8 +1,12 @@
-#Preprints
+## Preprints
 
-Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [PDF]
+A Jones, G Gundersen, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)
 
-Gewirtz, A. D., Townes, W. F., & Engelhardt, B. E. (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. Cold spring harbor laboratory. [PDF]
+T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)
+
+Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692) [Code]
+
+Gewirtz, A. D., Townes, W. F., & Engelhardt, B. E. (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156) [Code]
 
 Dumitrascu, B., Feng, K., & Engelhardt, B. E. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [PDF]
 
@@ -22,9 +26,11 @@ Townes, W. F., & Engelhardt, B. E. Nonnegative spatial factorization. [PDF]
 
 de Vito, R., Grabski, I. N., Aguiar, D., Schneper, L. M., Verma, A., Castillo Fernandez, J., Mitchell, C., Bell, J., McLanahan, S., Notterman, D. A., & Engelhardt, B. E. Differentially methylated regions and methylation QTLs for teen depression and early puberty in the Fragile Families Child Wellbeing Study. [PDF]
 
+## Publications
+
 Martinet G, Strzalkowski A, Engelhardt BE (2022). Variance minimization in the Wasserstein space for invariant causal prediction. Artificial Intelligence and Statistics (AISTATS). [PDF]
 
-Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. Annals of Applied Statistics (AOAS; accepted). [PDF]
+Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. Annals of Applied Statistics (AOAS). [PDF]
 
 Cui, S., Yoo, E. C., Li, D., Laudanski, K., & Engelhardt, B. E.. (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. Proceedings of the Pacific Symposium on Biocomputing (PSB).
 [PDF]
