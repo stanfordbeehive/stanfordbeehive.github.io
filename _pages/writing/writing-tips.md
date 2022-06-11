@@ -1,4 +1,4 @@
-#Writing tips & finishing a paper
+# Writing tips & finishing a paper
 
 When writing a paper, my target audience is always a first year PhD student. Keeping this target audience in mind with every decision means that the reader is smart but doesn't know the field (terminology, debates, important papers, history) as well as other colleagues, eager and full of energy and optimism to learn and possibly to try to re-derive all of your formulas and proofs, and may keep this paper in their mind as they read more papers. They will give you the benefit of the doubt. Make sure every word of your paper earns that trust.
 
@@ -6,11 +6,11 @@ However, first year PhD students are also learning to read research critically, 
 
 All of this is based on myself as a first year PhD student. I think I always write for that person: how eagerly I read papers to learn more and find references to other papers, and how soul-crushing it was to realize a paper had a major mistake in a derivation or some fatal flaw in the assumptions that wasn't spelled out properly. That said, I also still remember those papers from 2001 that I read that changed my life with their clarity and ability to teach a subject, not just overwhelm the reader with artificial novelty and complexity. Write for me, circa 2001.
 
-##Basic writing
+## Basic writing
 
 Early on in graduate school, my collaborator advised me to read the full Strunk and White book on Grammar. I am not a perfectionist, but this experience has stuck with me, and I believe that it is important first to learn the rules of grammar and then to learn when they can be broken. This is a summary of the rules for scientific writing that I see broken most often to the detriment of the paper.
 
-##Unhelpful words and phrases
+## Unhelpful words and phrases
 
 The following words make it hard for me to read and understand sentences.
 
@@ -31,17 +31,17 @@ The following words make it hard for me to read and understand sentences.
 - Avoid hyphens unless you have a multi-word adjective <- see what I did there?
 - Avoid italics, bold, and every type of formatting that draws attention to words unnecessarily
 
-##Latex commands and formatting
+## Latex commands and formatting
 
 to avoid that annoying space after a comma in math mode, add:
 \usepackage{icomma}
 
-##Sentence structure
+## Sentence structure
 Don’t write long sentences. Break up long ideas with periods, semicolons, or triple dashed phrases (e.g., ``..., with which gene A—when measured in the unexposed samples—does not appear to interact")
 - Prefer active and not passive voice
 - Use simple words, and simple sentence structures.
 
-##Semantics
+## Semantics
 
 I do not know if it is possible to teach a person to write meaningful, clear sentences and paragraphs. I think the phrase that another collaborator said once that I repeat to myself often when writing papers is:
 
@@ -49,7 +49,7 @@ I do not know if it is possible to teach a person to write meaningful, clear sen
 
 It sounds simple, but it embodies the idea that you should not use a word that does not capture the object, idea, or action you are trying to convey to the reader. For example, “We collected GWAS data for 943 participants.” What does it mean to collect ``genome-wide association study data"? Do you mean that you collected genotype data for these participants? If so, say that.
 
-##Paper structure and consistency
+## Paper structure and consistency
 
 Logical flow is another hard concept to teach. Paragraphs read almost like proofs. Avoid writing things until all the required information leading up to that statement have been written.
 
@@ -57,13 +57,13 @@ Order of presentation of ideas is also a difficult and subjective area. I look a
 
 Consistency is a problem I find with nearly every paper I read. If you use the word "data" as a plural, keep it plural. If you refuse to add an -s to eQTL when it is a plural word (don't do this, please), at least keep that consistent throughout the paper. If you label something "sex-biased eQTLs," don't call them "sex-differential eQTLs" later on. Consistency is important for understanding.
 
-##Detailed outline
+## Detailed outline
 
 I advise students to put together a paragraph-resolution outline of their paper before actually writing, including figures and potential caption first lines.
 
 How should you do this? Look through the related work in the journal to which you are planning on submitting your manuscript. Often, there is a published paper or two that are very well written and organized. Without using any of the words or phrases that the other paper does (this is plagiarism) follow their organizational lead in terms of presentation of ideas and details presented; adapt to the context of your research. If you are writing a Methods paper, do not use the outline of a Research paper, and vice versa – paper type matters.
 
-##Order of writing
+## Order of writing
 
 People have strong opinions on this, and here are mine.
 
@@ -75,7 +75,7 @@ People have strong opinions on this, and here are mine.
 - Fifth, Discussion. Summarize paper briefly, then discuss clearly the limitations and next steps to this research.
 - Last, Introduction. I'm sure you are itching to write this. A well-written introduction can change the world. But misstarts on introductions can also make crafting the perfect final product hard. It hurts, but is often necessary, to completely erase an introduction written too early and start from scratch -- I've had to do this many times. When I don't do this, I often regret the final product.
 
-##Really finishing a document
+## Really finishing a document
 
 You have sent your advisor the draft, received feedback, and are ready to submit! At this point, there is (I find) as many as 10 hours left of work before actually being able to submit a journal length paper; conference papers are somewhat easier.
 
