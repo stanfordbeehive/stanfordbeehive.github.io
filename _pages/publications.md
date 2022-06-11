@@ -1,12 +1,22 @@
+---
+title: "Publications"
+permalink: /publications/
+date: 2022-06-11
+---
+
 ## Preprints
 
 A Jones, G Gundersen, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)
 
 T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)
 
-Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692) [Code]
+A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692) [Code]
 
 AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156) [Code](https://github.com/gewirtz/TBLDA)
+
+D Li*, A Jones*, BE Engelhardt. Probabilistic contrastive principal component analysis. [PDF] [[Code](https://github.com/andrewcharlesjones/pcpca)]
+
+D Li*, A Jones*, S Banerjee, BE Engelhardt. Multi-group Gaussian processes. [arXiv](https://arxiv.org/abs/2110.08411) [[Code](https://github.com/andrewcharlesjones/multi-group-GP)]
 
 B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/386540)] [[Talk](https://www.youtube.com/watch?v=sDFe3e33m_I)]
 
@@ -16,13 +26,11 @@ Gao, C., Brown, C. D., & Engelhardt, B. E. A latent factor model with a mixture 
 
 Verma, A., & Engelhardt, B. E. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF] [[Code](https://github.com/architverma1/sc-manifold-alignment)]
 
-Grabski, I. N., de Vito, R., & Engelhardt, B. E. Bayesian ordinal quantile regression with a partially collapsed Gibbs sampler. [PDF]
+IN Grabski, R de Vito, BE Engelhardt. Bayesian ordinal quantile regression with a partially collapsed Gibbs sampler. [PDF]
 
 Mandyam, A., Jones, A., Laudanski, K., & Engelhardt, B. E. Nested policy reinforcement learning. [PDF]
 
-Li*, D., Jones*, A., & Engelhardt, B. E. Probabilistic contrastive principal component analysis. [PDF]
-
-Townes, W. F., & Engelhardt, B. E. Nonnegative spatial factorization. [PDF]
+FW Townes, BE Engelhardt. Nonnegative spatial factorization. [PDF]
 
 de Vito, R., Grabski, I. N., Aguiar, D., Schneper, L. M., Verma, A., Castillo Fernandez, J., Mitchell, C., Bell, J., McLanahan, S., Notterman, D. A., & Engelhardt, B. E. Differentially methylated regions and methylation QTLs for teen depression and early puberty in the Fragile Families Child Wellbeing Study. [PDF]
 
@@ -30,7 +38,7 @@ de Vito, R., Grabski, I. N., Aguiar, D., Schneper, L. M., Verma, A., Castillo Fe
 
 Martinet G, Strzalkowski A, Engelhardt BE (2022). Variance minimization in the Wasserstein space for invariant causal prediction. *Artificial Intelligence and Statistics (AISTATS)*. [PDF]
 
-Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF]
+Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF] [[Code](https://github.com/andrewcharlesjones/cplvm)]
 
 Cui, S., Yoo, E. C., Li, D., Laudanski, K., & Engelhardt, B. E.. (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*.
 [PDF]
