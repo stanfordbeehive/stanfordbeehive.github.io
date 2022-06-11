@@ -1,3 +1,8 @@
+---
+title: "People"
+permalink: /people/
+date: 2022-06-11
+---
 ## Current members
 
 
