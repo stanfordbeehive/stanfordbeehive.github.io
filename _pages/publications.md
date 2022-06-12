@@ -208,5 +208,5 @@ Pickrell, J. K., Marioni, J. C., Pai, A. A., Degner, J. F., Engelhardt, B. E., N
 Engelhardt, B. E., Jordan, M. I., & Brenner, S. E.. (2006). A graphical model for predicting protein molecular function. Proceedings of the 23rd International Conference on Machine Learning (ICML), 297–304. doi:10.1145/1143844.1143882
 [PDF]
 
-Engelhardt, B. E., Jordan, M. I., Muratore, K. E., & Brenner, S. E. (2005). Protein molecular function prediction by Bayesian phylogenomics. PLoS Computational Biology, 1(5), e45. doi:10.1371/journal.pcbi.0010045 
-[PDF]
+BE Engelhardt, MI Jordan, KE Muratore, SE Brenner (2005). Protein molecular function prediction by Bayesian phylogenomics. *PLoS Computational Biology*, 1(5), e45.
+[[PDF](doi:10.1371/journal.pcbi.0010045)]
