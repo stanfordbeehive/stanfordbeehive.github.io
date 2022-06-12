@@ -8,9 +8,9 @@ date: 2022-06-11
 
 A Jones, G Gundersen, BE Engelhardt (2022). Linking histology and molecular state across human tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)]
 
-T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236) [[Code](https://github.com/tianafitz/PRRR)]
+T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)] [[Code](https://github.com/tianafitz/PRRR)]
 
-A Mandyam, A Jones, K Laudanski, BE Engelhardt. Nested policy reinforcement learning. [PDF]
+A Mandyam, A Jones, K Laudanski, BE Engelhardt. Nested policy reinforcement learning. [[arXiv](https://arxiv.org/abs/2110.02879)]
 
 A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [[Code](https://github.com/andrewcharlesjones/spatial-alignment)]
 
