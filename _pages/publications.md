@@ -205,8 +205,8 @@ Engelhardt, B. E., & Stephens, M. (2010). Analysis of population structure: A un
 Pickrell, J. K., Marioni, J. C., Pai, A. A., Degner, J. F., Engelhardt, B. E., Nkadori, E., Veyrieras, J., Stephens, M., Gilad, Y., & Pritchard, J. K.. (2010). Understanding mechanisms underlying human gene expression variation with RNA sequencing. Nature, 464(7289), 768–772. doi:10.1038/nature08872
 [PDF]
 
-Engelhardt, B. E., Jordan, M. I., & Brenner, S. E.. (2006). A graphical model for predicting protein molecular function. Proceedings of the 23rd International Conference on Machine Learning (ICML), 297–304. doi:10.1145/1143844.1143882
-[PDF]
+BE Engelhardt, MI Jordan, SE Brenner (2006). A graphical model for predicting protein molecular function. *Proceedings of the 23rd International Conference on Machine Learning (ICML)*, 297–304. 
+[[PDF](10.1145/1143844.1143882)]
 
 BE Engelhardt, MI Jordan, KE Muratore, SE Brenner (2005). Protein molecular function prediction by Bayesian phylogenomics. *PLoS Computational Biology*, 1(5), e45.
-[[PDF](doi:10.1371/journal.pcbi.0010045)]
+[[PDF](10.1371/journal.pcbi.0010045)]
