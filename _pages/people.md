@@ -11,16 +11,16 @@ date: 2022-06-11
 
 ### Postdocs
 
-![archit](/assets/images/archit.jpeg =150x) **Archit Verma** is a postdoc at Gladstone Institutes (2022-present)
+<img src="/assets/images/archit.jpeg" width="150" height="190"> **Archit Verma** is a postdoc at Gladstone Institutes (2022-present)
 
 ### PhD Students
 
-![aishwarya](/assets/images/aishwarya.jpeg =150x) **Aishwarya Mandyam** is a PhD Student at Stanford University (Computer Science; 2022-present)
+<img src="/assets/images/aishwarya.jpeg" width="150" height="190"> **Aishwarya Mandyam** is a PhD Student at Stanford University (Computer Science; 2022-present)
 
 
 ### Administrative Assistant
 
-![Liz](/assets/images/liz.jpeg =150x) **Liz Nguyen** is an Administrative Assistant at Gladstone Institutes.
+<img src="/assets/images/liz.jpeg" width="150" height="190"> **Liz Nguyen** is an Administrative Assistant at Gladstone Institutes.
 
 ## Lab Alumni
 
