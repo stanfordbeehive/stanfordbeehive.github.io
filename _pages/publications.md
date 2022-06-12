@@ -18,15 +18,15 @@ AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichle
 
 FW Townes, BE Engelhardt. Nonnegative spatial factorization. [[arXiv](https://arxiv.org/abs/2110.06122)] [[Code](https://github.com/willtownes/nsf-paper)]
 
-D Li*, A Jones*, BE Engelhardt. Probabilistic contrastive principal component analysis. [PDF] [[Code](https://github.com/andrewcharlesjones/pcpca)]
+D Li\*, A Jones\*, BE Engelhardt. Probabilistic contrastive principal component analysis. [PDF] [[Code](https://github.com/andrewcharlesjones/pcpca)]
 
-D Li*, A Jones*, S Banerjee, BE Engelhardt. Multi-group Gaussian processes. [[arXiv](https://arxiv.org/abs/2110.08411)] [[Code](https://github.com/andrewcharlesjones/multi-group-GP)]
+D Li\*, A Jones\*, S Banerjee, BE Engelhardt. Multi-group Gaussian processes. [[arXiv](https://arxiv.org/abs/2110.08411)] [[Code](https://github.com/andrewcharlesjones/multi-group-GP)]
 
-IN Grabski, R de Vito, BE Engelhardt. Bayesian ordinal quantile regression with a partially collapsed Gibbs sampler. [PDF]
+IN Grabski, R de Vito, BE Engelhardt. Bayesian ordinal quantile regression with a partially collapsed Gibbs sampler. [[arXiv](https://arxiv.org/abs/1911.07099)] [[Code](https://github.com/igrabski/boqr_bal)]
 
-A Verma, BE Engelhardt. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF] [[Code](https://github.com/architverma1/sc-manifold-alignment)]
+A Verma, BE Engelhardt. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.14.906313)] [[Code](https://github.com/architverma1/sc-manifold-alignment)]
 
-de Vito, R., Grabski, I. N., Aguiar, D., Schneper, L. M., Verma, A., Castillo Fernandez, J., Mitchell, C., Bell, J., McLanahan, S., Notterman, D. A., & Engelhardt, B. E. Differentially methylated regions and methylation QTLs for teen depression and early puberty in the Fragile Families Child Wellbeing Study. [PDF]
+R de Vito, IN Grabski, D Aguiar, LM Schneper, A Verma, J Castillo Fernandez, C Mitchell, JT Bell, S McLanahan, DA Notterman, BE Engelhardt. Differentially methylated regions and methylation QTLs for teen depression and early puberty in the Fragile Families Child Wellbeing Study. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.05.20.444959v1)]
 
 B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/386540)] [[Talk](https://www.youtube.com/watch?v=sDFe3e33m_I)]
 
