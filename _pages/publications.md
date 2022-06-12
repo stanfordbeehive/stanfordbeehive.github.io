@@ -49,8 +49,8 @@ J Ash*, G Darnell*, D Munro*, BE Engelhardt (2021). Joint analysis of gene expre
 B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications*, 12(1186).
 [PDF] [[Code](https://github.com/solevillar/scGeneFit-python)]
 
-Lu, J., Dumitrascu, B., McDowell, I. C., Barrera, A., K., H. L., Leichter, S. M., Reddy, T. E., & Engelhardt, B. E.. (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. PLoS Computational Biology, 17(1), e1008223.
-[PDF]
+J Lu, B Dumitrascu, IC McDowell, AK Barrera, SM Leichter, TE Reddy, BE Engelhardt (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. *PLoS Computational Biology*, 17(1), e1008223.
+[[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008223)] [[Code](https://github.com/lujonathanh/BETS)]
 
 Gundersen, G. W., Cai, D., Zhou, C., Engelhardt, B. E., & Adams, R. P.. (2021). Active multi-fidelity Bayesian online changepoint detection. Uncertainty in Artifical Intelligence (UAI).
 [PDF]
