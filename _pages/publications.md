@@ -40,8 +40,8 @@ G Martinet, A Strzalkowski, BE Engelhardt (2022). Variance minimization in the W
 
 A Jones, FW Townes, D Li, BE Engelhardt (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF] [[arXiv](https://arxiv.org/abs/2102.06731)] [[Code](https://github.com/andrewcharlesjones/cplvm)]
 
-Cui, S., Yoo, E. C., Li, D., Laudanski, K., & Engelhardt, B. E.. (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*.
-[PDF]
+S Cui, EC Yoo, D Li, K Laudanski, BE Engelhardt (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*.
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/eyeshoe/cop-e-cat)]
 
 J Ash*, G Darnell*, D Munro*, BE Engelhardt (2021). Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology. *Nature Communications*, 12(1609).
 [PDF] [[Code](https://github.com/daniel-munro/imageCCA)]
