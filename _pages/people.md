@@ -7,7 +7,7 @@ date: 2022-06-11
 
 ### PI
 
-<img src="/assets/images/bee.jpeg" width="150" height="185"> **Barbara E Engelhardt** is a Senior Investigator at Gladstone Institutes and a Professor at Stanford University.
+<img src="/assets/images/bee.jpeg" width="150" height="190"> **Barbara E Engelhardt** is a Senior Investigator at Gladstone Institutes and a Professor at Stanford University.
 
 ### Postdocs
 
