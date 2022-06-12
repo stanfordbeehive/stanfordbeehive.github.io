@@ -38,7 +38,7 @@ C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse a
 
 G Martinet, A Strzalkowski, BE Engelhardt (2022). Variance minimization in the Wasserstein space for invariant causal prediction. *Artificial Intelligence and Statistics (AISTATS)*. [[PDF](https://proceedings.mlr.press/v151/martinet22a/martinet22a.pdf)] [[Code](https://github.com/astrzalk/WVM_reproducibility)] [[Post](https://stanfordbeehive.github.io/WMD/)]
 
-Jones, A., Townes, W. F., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF] [[Code](https://github.com/andrewcharlesjones/cplvm)]
+A Jones, FW Townes, D Li, BE Engelhardt (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF] [[arXiv](https://arxiv.org/abs/2102.06731)] [[Code](https://github.com/andrewcharlesjones/cplvm)]
 
 Cui, S., Yoo, E. C., Li, D., Laudanski, K., & Engelhardt, B. E.. (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*.
 [PDF]
