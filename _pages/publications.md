@@ -6,33 +6,33 @@ date: 2022-06-11
 
 ## Preprints
 
-A Jones, G Gundersen, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)
+A Jones, G Gundersen, BE Engelhardt (2022). Linking histology and molecular state across human tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)]
 
-T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)
+T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236) [[Code](https://github.com/tianafitz/PRRR)]
 
-A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [Code]
+A Mandyam, A Jones, K Laudanski, BE Engelhardt. Nested policy reinforcement learning. [PDF]
+
+A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [[Code](https://github.com/andrewcharlesjones/spatial-alignment)]
 
 AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156)] [[Code](https://github.com/gewirtz/TBLDA)]
 
+FW Townes, BE Engelhardt. Nonnegative spatial factorization. [[arXiv](https://arxiv.org/abs/2110.06122)] [[Code](https://github.com/willtownes/nsf-paper)]
+
 D Li*, A Jones*, BE Engelhardt. Probabilistic contrastive principal component analysis. [PDF] [[Code](https://github.com/andrewcharlesjones/pcpca)]
 
-D Li*, A Jones*, S Banerjee, BE Engelhardt. Multi-group Gaussian processes. [arXiv](https://arxiv.org/abs/2110.08411) [[Code](https://github.com/andrewcharlesjones/multi-group-GP)]
-
-B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/386540)] [[Talk](https://www.youtube.com/watch?v=sDFe3e33m_I)]
-
-AJB Chaney, A Verma, Y Lee, BE Engelhardt. Nonparametric deconvolution models. [[arXiv](arxiv.org/abs/2003.07718)]
-
-Gao, C., Brown, C. D., & Engelhardt, B. E. A latent factor model with a mixture of sparse and dense factors to model gene expression data affected by technical and biological covariates. [PDF]
-
-Verma, A., & Engelhardt, B. E. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF] [[Code](https://github.com/architverma1/sc-manifold-alignment)]
+D Li*, A Jones*, S Banerjee, BE Engelhardt. Multi-group Gaussian processes. [[arXiv](https://arxiv.org/abs/2110.08411)] [[Code](https://github.com/andrewcharlesjones/multi-group-GP)]
 
 IN Grabski, R de Vito, BE Engelhardt. Bayesian ordinal quantile regression with a partially collapsed Gibbs sampler. [PDF]
 
-Mandyam, A., Jones, A., Laudanski, K., & Engelhardt, B. E. Nested policy reinforcement learning. [PDF]
-
-FW Townes, BE Engelhardt. Nonnegative spatial factorization. [PDF]
+A Verma, BE Engelhardt. A Bayesian nonparametric semi-supervised model for integration of multiple single-cell experiments. [PDF] [[Code](https://github.com/architverma1/sc-manifold-alignment)]
 
 de Vito, R., Grabski, I. N., Aguiar, D., Schneper, L. M., Verma, A., Castillo Fernandez, J., Mitchell, C., Bell, J., McLanahan, S., Notterman, D. A., & Engelhardt, B. E. Differentially methylated regions and methylation QTLs for teen depression and early puberty in the Fragile Families Child Wellbeing Study. [PDF]
+
+B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing cell type discovery in single-cell data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/386540)] [[Talk](https://www.youtube.com/watch?v=sDFe3e33m_I)]
+
+AJB Chaney, A Verma, Y Lee, BE Engelhardt. Nonparametric deconvolution models. [[arXiv](arxiv.org/abs/2003.07718)] [[Code](https://github.com/ajbc/ndm)]
+
+C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse and dense factors to model gene expression data affected by technical and biological covariates. [PDF]
 
 ## Publications
 
@@ -44,10 +44,10 @@ Cui, S., Yoo, E. C., Li, D., Laudanski, K., & Engelhardt, B. E.. (2022). Hierarc
 [PDF]
 
 J Ash*, G Darnell*, D Munro*, BE Engelhardt (2021). Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology. *Nature Communications*, 12(1609).
-[PDF] [[Code]](https://github.com/daniel-munro/imageCCA)
+[PDF] [[Code](https://github.com/daniel-munro/imageCCA)]
 
 B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications*, 12(1186).
-[PDF] [[Code]](https://github.com/solevillar/scGeneFit-python)
+[PDF] [[Code](https://github.com/solevillar/scGeneFit-python)]
 
 Lu, J., Dumitrascu, B., McDowell, I. C., Barrera, A., K., H. L., Leichter, S. M., Reddy, T. E., & Engelhardt, B. E.. (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. PLoS Computational Biology, 17(1), e1008223.
 [PDF]
@@ -59,7 +59,7 @@ Wu, A., Nastase, S. A., Baldassano, C. A., Turk-Browne, N. B., Norman, K. A., En
 [PDF]
 
 Verma, A., Jena, S., Isakov, D. R., Aoki, K., Toettcher, J. E., & Engelhardt, B. E.. (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. Proceedings of the National Academy of Sciences (PNAS), 118, e2026123118.
-[PDF] [[Code]](https://github.com/architverma1/CPP)
+[PDF] [[Code](https://github.com/architverma1/CPP)]
 
 Mandyam, A., Yoo, E. C., Soules, J., Laudanski, K., & Engelhardt, B. E.. (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB).
 [PDF]
@@ -163,22 +163,22 @@ Tonner, P. D., Darnell, C. D., Engelhardt, B. E., & Schmid, A.. (2016). Detectin
 Zhao, S., Gao, C., Mukherjee, S., & Engelhardt, B. E.. (2016). Bayesian group latent factor analysis with structured sparse priors. Journal of Machine Learning Research (JMLR).
 [PDF]
 
-Engelhardt, B. E., & Brown, C. D.. (2015). Diving deeper to predict noncoding sequence function. Nature Methods (News & Views; not peer-reviewed), 12(10), 925–926.
+Engelhardt, B. E., & Brown, C. D.. (2015). Diving deeper to predict noncoding sequence function. *Nature Methods (News & Views*; not peer-reviewed), 12(10), 925–926.
 [PDF]
 
-van Den Berg, S. M., de Moor, M. H., Verweij, K. J., Krueger, R. F., Luciano, M., Vasquez, A. A., Matteson, L. K., Derringer, J., Esko, T., Amin, N., & others. (2015). Meta-analysis of genome-wide association studies for extraversion: Findings from the Genetics of Personality Consortium. Behavior Genetics, 1–13. doi:10.1007/s10519-015-9735-5
+van Den Berg, S. M., de Moor, M. H., Verweij, K. J., Krueger, R. F., Luciano, M., Vasquez, A. A., Matteson, L. K., Derringer, J., Esko, T., Amin, N., & others. (2015). Meta-analysis of genome-wide association studies for extraversion: Findings from the Genetics of Personality Consortium. *Behavior Genetics*, 1–13. doi:10.1007/s10519-015-9735-5
 [PDF]
 
-Zhang, W., Spector, T., Deloukas, P., Bell, J., & Engelhardt, B. E.. (2015). Predicting genome-wide DNA methylation using methylation marks, genomic position, and DNA regulatory elements. Genome Biology, 16(1), 14. doi:10.1186/s13059-015-0581-9
+Zhang, W., Spector, T., Deloukas, P., Bell, J., & Engelhardt, B. E.. (2015). Predicting genome-wide DNA methylation using methylation marks, genomic position, and DNA regulatory elements. *Genome Biology*, 16(1), 14. doi:10.1186/s13059-015-0581-9
 [PDF]
 
-Mimno, D., Blei, D. M., & Engelhardt, B. E.. (2015). Posterior predictive checks to quantify lack-of-fit in admixture models of latent population structure. Proceedings of the National Academy of Sciences (PNAS), 112(26), E3341–50. doi:10.1073/pnas.1412301112
+Mimno, D., Blei, D. M., & Engelhardt, B. E.. (2015). Posterior predictive checks to quantify lack-of-fit in admixture models of latent population structure. *Proceedings of the National Academy of Sciences (PNAS)*, 112(26), E3341–50. doi:10.1073/pnas.1412301112
 [PDF]
 
-Genetics of Personality Consortium. (2015). Meta-analysis of genome-wide association studies for neuroticism, and the polygenic association with major depressive disorder. JAMA Psychiatry, 72(7), 642-650. doi:10.1001/jamapsychiatry.2015.0554
+Genetics of Personality Consortium. (2015). Meta-analysis of genome-wide association studies for neuroticism, and the polygenic association with major depressive disorder. *JAMA Psychiatry*, 72(7), 642-650. doi:10.1001/jamapsychiatry.2015.0554
 [PDF]
 
-Hart, A. B., Gamazon, E. R., Engelhardt, B. E., Sklar, P., Kähler, A. K., Hultman, C. M., Sullivan, P. F., Neale, B. M., Faraone, S. V., de Wit, H., Cox, N. J., & a Palmer, A.. (2014). Genetic variation associated with euphorigenic effects of d-amphetamine is associated with diminished risk for schizophrenia and attention deficit hyperactivity disorder. Proceedings of the National Academy of Sciences (PNAS), 111(16), 5968–73. doi:10.1073/pnas.1318810111
+Hart, A. B., Gamazon, E. R., Engelhardt, B. E., Sklar, P., Kähler, A. K., Hultman, C. M., Sullivan, P. F., Neale, B. M., Faraone, S. V., de Wit, H., Cox, N. J., & a Palmer, A.. (2014). Genetic variation associated with euphorigenic effects of d-amphetamine is associated with diminished risk for schizophrenia and attention deficit hyperactivity disorder. *Proceedings of the National Academy of Sciences (PNAS)*, 111(16), 5968–73. doi:10.1073/pnas.1318810111
 [PDF]
 
 Mangravite*, L. M., Engelhardt*, B. E., Medina, M. W., Smith, J. D., Brown, C. D., Chasman, D. I., Mecham, B. H., Howie, B., Shim, H., Naidoo, D., Feng, Q., Rieder, M. J., Chen, Y. I., Rotter, J. I., Ridker, P. M., Hopewell, J. C., Parish, S., Armitage, J., Collins, R., Wilke, R. A., Nickerson, D. A., Stephens, M., & Krauss, R. M.. (2013). A statin-dependent QTL for GATM expression is associated with statin-induced myopathy. Nature, 502(7471), 377–80. doi:10.1038/nature12508
