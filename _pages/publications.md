@@ -12,7 +12,7 @@ T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression m
 
 A Mandyam, A Jones, K Laudanski, BE Engelhardt. Nested policy reinforcement learning. [[arXiv](https://arxiv.org/abs/2110.02879)]
 
-A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [[Code](https://github.com/andrewcharlesjones/spatial-alignment)]
+A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [[Code](https://github.com/andrewcharlesjones/spatial-alignment)] [[Post](https://stanfordbeehive.github.io/GPSA/)]
 
 AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156)] [[Code](https://github.com/gewirtz/TBLDA)]
 
