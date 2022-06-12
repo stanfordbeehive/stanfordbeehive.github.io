@@ -5,6 +5,22 @@ date: 2022-06-11
 ---
 ## Current members
 
+### PI
+
+![bee](/assets/images/bee.jpg) **Barbara E Engelhardt** is a Senior Investigator at Gladstone Institutes and a Professor at Stanford University.
+
+### Postdocs
+
+![archit](/assets/images/archit.jpg) **Archit Verma** is a postdoc at Gladstone Institutes (2022-present)
+
+### PhD Students
+
+![aishwarya](/assets/images/aishwarya.jpg) **Aishwarya Mandyam** is a PhD Student at Stanford University (Computer Science; 2022-present)
+
+
+### Administrative Assistant
+
+![Liz](/assets/images/liz.jpg) **Liz Nguyen** is an Administrative Assistant at Gladstone Institutes.
 
 ## Lab Alumni
 
