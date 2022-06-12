@@ -7,20 +7,20 @@ date: 2022-06-11
 
 ### PI
 
-![bee](/assets/images/bee.jpeg) **Barbara E Engelhardt** is a Senior Investigator at Gladstone Institutes and a Professor at Stanford University.
+![bee](/assets/images/bee.jpeg =150x) **Barbara E Engelhardt** is a Senior Investigator at Gladstone Institutes and a Professor at Stanford University.
 
 ### Postdocs
 
-![archit](/assets/images/archit.jpeg) **Archit Verma** is a postdoc at Gladstone Institutes (2022-present)
+![archit](/assets/images/archit.jpeg =150x) **Archit Verma** is a postdoc at Gladstone Institutes (2022-present)
 
 ### PhD Students
 
-![aishwarya](/assets/images/aishwarya.jpeg) **Aishwarya Mandyam** is a PhD Student at Stanford University (Computer Science; 2022-present)
+![aishwarya](/assets/images/aishwarya.jpeg =150x) **Aishwarya Mandyam** is a PhD Student at Stanford University (Computer Science; 2022-present)
 
 
 ### Administrative Assistant
 
-![Liz](/assets/images/liz.jpeg) **Liz Nguyen** is an Administrative Assistant at Gladstone Institutes.
+![Liz](/assets/images/liz.jpeg =150x) **Liz Nguyen** is an Administrative Assistant at Gladstone Institutes.
 
 ## Lab Alumni
 
