@@ -6,7 +6,7 @@ date: 2022-06-11
 
 ## Preprints
 
-A Jones, G Gundersen, BE Engelhardt (2022). Linking histology and molecular state across human tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)]
+A Jones, G Gundersen, BE Engelhardt (2022). Linking histology and molecular state across human tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.10.495669v1)]
 
 T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)] [[Code](https://github.com/tianafitz/PRRR)]
 
