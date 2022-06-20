@@ -60,7 +60,7 @@ Gundersen, G. W., Cai, D., Zhou, C., Engelhardt, B. E., & Adams, R. P.. (2021). 
 Wu, A., Nastase, S. A., Baldassano, C. A., Turk-Browne, N. B., Norman, K. A., Engelhardt, B. E., & Pillow, J. W.. (2021). Brain kernel: a new spatial covariance function for fMRI data. NeuroImage, 15(245), 118580.
 [PDF]
 
-Verma, A., Jena, S., Isakov, D. R., Aoki, K., Toettcher, J. E., & Engelhardt, B. E.. (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. Proceedings of the National Academy of Sciences (PNAS), 118, e2026123118.
+A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. *Proceedings of the National Academy of Sciences (PNAS)*, 118, e2026123118.
 [PDF] [[Code](https://github.com/architverma1/CPP)]
 
 Mandyam, A., Yoo, E. C., Soules, J., Laudanski, K., & Engelhardt, B. E.. (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB).
