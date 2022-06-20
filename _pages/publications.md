@@ -36,6 +36,8 @@ C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse a
 
 ## Publications
 
+SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and understanding of biological timecourse data. *Biochemical Journal* [[PDF](https://doi.org/10.1042/BCJ20220053)]
+
 G Martinet, A Strzalkowski, BE Engelhardt (2022). Variance minimization in the Wasserstein space for invariant causal prediction. *Artificial Intelligence and Statistics (AISTATS)*. [[PDF](https://proceedings.mlr.press/v151/martinet22a/martinet22a.pdf)] [[Code](https://github.com/astrzalk/WVM_reproducibility)] [[Post](https://stanfordbeehive.github.io/WMD/)]
 
 A Jones, FW Townes, D Li, BE Engelhardt (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF] [[arXiv](https://arxiv.org/abs/2102.06731)] [[Code](https://github.com/andrewcharlesjones/cplvm)]
