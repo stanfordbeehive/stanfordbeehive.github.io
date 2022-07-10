@@ -198,14 +198,14 @@ Muratore, K. E., Engelhardt, B. E., Srouji, J. R., Jordan, M. I., Brenner, S. E.
 Hart*, A. B., Engelhardt*, B. E., Wardle, M. C., Sokoloff, G., Stephens, M., de Wit, H., & Palmer, A.. (2012). Genome-wide association study of d-amphetamine response in healthy volunteers identifies putative associations, including cadherin 13 (CDH13). PLoS One, 7(8), e42646. doi:10.1371/journal.pone.0042646
 [PDF]
 
-Engelhardt, B. E., Jordan, M. I., Srouji, J. R., & Brenner, S. E.. (2011). Genome-scale phylogenetic function annotation of large and diverse protein families. Genome Research, 21(11), 1969–80. doi:10.1101/gr.104687.109
+Engelhardt, B. E., Jordan, M. I., Srouji, J. R., & Brenner, S. E.. (2011). Genome-scale phylogenetic function annotation of large and diverse protein families. Genome Research, 21(11):1969–80. doi:10.1101/gr.104687.109
 [PDF]
 
-Engelhardt, B. E., & Stephens, M. (2010). Analysis of population structure: A unifying framework and novel methods based on sparse factor analysis. PLoS Genetics, 6(9), e1001117. doi:10.1371/journal.pgen.1001117
-[PDF]
+BE Engelhardt, M Stephens (2010). Analysis of population structure: A unifying framework and novel methods based on sparse factor analysis. *PLoS Genetics*, 6(9):e1001117.
+[[PDF](doi:10.1371/journal.pgen.1001117)]
 
-Pickrell, J. K., Marioni, J. C., Pai, A. A., Degner, J. F., Engelhardt, B. E., Nkadori, E., Veyrieras, J., Stephens, M., Gilad, Y., & Pritchard, J. K.. (2010). Understanding mechanisms underlying human gene expression variation with RNA sequencing. Nature, 464(7289), 768–772. doi:10.1038/nature08872
-[PDF]
+JK Pickrell, JC Marioni, AA Pai, JF Degner, BE Engelhardt, E Nkadori, JB Veyrieras, M Stephens, Y Gilad, JK Pritchard (2010). Understanding mechanisms underlying human gene expression variation with RNA sequencing. *Nature*, 464(7289):768–772. 
+[[PDF](doi:10.1038/nature08872)]
 
 BE Engelhardt, MI Jordan, SE Brenner (2006). A graphical model for predicting protein molecular function. *Proceedings of the 23rd International Conference on Machine Learning (ICML)*, 297–304. 
 [[PDF](10.1145/1143844.1143882)]
