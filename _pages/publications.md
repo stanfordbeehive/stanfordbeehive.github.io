@@ -192,14 +192,14 @@ Mordelet, F., Horton, J., Hartemink, A. J., Engelhardt, B. E., & Gordân, R.. (2
 Brown, C. D., Mangravite, L. M., & Engelhardt, B. E.. (2013). Integrative modeling of eQTLs and cis-regulatory elements suggests mechanisms underlying cell type specificity of eQTLs. PLoS Genetics, 9(8), e1003649. doi:10.1371/journal.pgen.1003649
 [PDF]
 
-Muratore, K. E., Engelhardt, B. E., Srouji, J. R., Jordan, M. I., Brenner, S. E., & Kirsch, J. F.. (2013). Molecular function prediction for a family exhibiting evolutionary tendencies toward substrate specificity swapping: Recurrence of tyrosine aminotransferase activity in the I$\alpha$ subfamily. Proteins: Structure, Function, and Bioinformatics, 81(9), 1593–1609.
-[PDF]
+KE Muratore, BE Engelhardt, JR Srouji, MI Jordan, SE Brenner, JF Kirsch (2013). Molecular function prediction for a family exhibiting evolutionary tendencies toward substrate specificity swapping: Recurrence of tyrosine aminotransferase activity in the I$\alpha$ subfamily. *Proteins: Structure, Function, and Bioinformatics*, 81(9):1593–1609.
+[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3823064/pdf/prot0081-1593.pdf)]
 
-Hart*, A. B., Engelhardt*, B. E., Wardle, M. C., Sokoloff, G., Stephens, M., de Wit, H., & Palmer, A.. (2012). Genome-wide association study of d-amphetamine response in healthy volunteers identifies putative associations, including cadherin 13 (CDH13). PLoS One, 7(8), e42646. doi:10.1371/journal.pone.0042646
-[PDF]
+AB Hart*, BE Engelhardt*, MC Wardle, G Sokoloff, M Stephens, H de Wit, A Palmer (2012). Genome-wide association study of *d*-amphetamine response in healthy volunteers identifies putative associations, including cadherin 13 (*CDH13*). *PLoS One*, 7(8):e42646. 
+[[PDF](doi:10.1371/journal.pone.0042646)]
 
-Engelhardt, B. E., Jordan, M. I., Srouji, J. R., & Brenner, S. E.. (2011). Genome-scale phylogenetic function annotation of large and diverse protein families. Genome Research, 21(11):1969–80. doi:10.1101/gr.104687.109
-[PDF]
+BE Engelhardt, MI Jordan, JR Srouji, SE Brenner (2011). Genome-scale phylogenetic function annotation of large and diverse protein families. *Genome Research*, 21(11):1969–80. 
+[[PDF](doi:10.1101/gr.104687.109)]
 
 BE Engelhardt, M Stephens (2010). Analysis of population structure: A unifying framework and novel methods based on sparse factor analysis. *PLoS Genetics*, 6(9):e1001117.
 [[PDF](doi:10.1371/journal.pgen.1001117)]
