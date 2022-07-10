@@ -180,17 +180,15 @@ Mimno, D., Blei, D. M., & Engelhardt, B. E.. (2015). Posterior predictive checks
 Genetics of Personality Consortium. (2015). Meta-analysis of genome-wide association studies for neuroticism, and the polygenic association with major depressive disorder. *JAMA Psychiatry*, 72(7), 642-650. doi:10.1001/jamapsychiatry.2015.0554
 [PDF]
 
-Hart, A. B., Gamazon, E. R., Engelhardt, B. E., Sklar, P., Kähler, A. K., Hultman, C. M., Sullivan, P. F., Neale, B. M., Faraone, S. V., de Wit, H., Cox, N. J., & a Palmer, A.. (2014). Genetic variation associated with euphorigenic effects of d-amphetamine is associated with diminished risk for schizophrenia and attention deficit hyperactivity disorder. *Proceedings of the National Academy of Sciences (PNAS)*, 111(16), 5968–73. doi:10.1073/pnas.1318810111
-[PDF]
+AB Hart, ER Gamazon, BE Engelhardt, P Sklar, AK Kähler, CM Hultman, PF Sullivan, BM Neale, SV Faraone, H de Wit, NJ Cox, A Palmer (2014). Genetic variation associated with euphorigenic effects of *d*-amphetamine is associated with diminished risk for schizophrenia and attention deficit hyperactivity disorder. *Proceedings of the National Academy of Sciences (PNAS)*, 111(16):5968–73.
+[[PDF](doi:10.1073/pnas.1318810111)]
 
-Mangravite*, L. M., Engelhardt*, B. E., Medina, M. W., Smith, J. D., Brown, C. D., Chasman, D. I., Mecham, B. H., Howie, B., Shim, H., Naidoo, D., Feng, Q., Rieder, M. J., Chen, Y. I., Rotter, J. I., Ridker, P. M., Hopewell, J. C., Parish, S., Armitage, J., Collins, R., Wilke, R. A., Nickerson, D. A., Stephens, M., & Krauss, R. M.. (2013). A statin-dependent QTL for GATM expression is associated with statin-induced myopathy. Nature, 502(7471), 377–80. doi:10.1038/nature12508
-[PDF]
+LM Mangravite\*, BE Engelhardt\*, MW Medina, JD Smith, CD Brown, DI Chasman, BH Mecham, B Howie, H Shim, D Naidoo, Q Feng, MJ Rieder, Y Chen, JI Rotter, PM Ridker, JC Hopewell, S Parish, J Armitage, R Collins, RA Wilke, DA Nickerson, M Stephens, RM Krauss (2013). A statin-dependent QTL for *GATM* expression is associated with statin-induced myopathy. *Nature*, 502(7471):377–80. 
+[[PDF](doi:10.1038/nature12508)]
 
-Mordelet, F., Horton, J., Hartemink, A. J., Engelhardt, B. E., & Gordân, R.. (2013). Stability selection for regression-based models of transcription factor-DNA binding specificity. Bioinformatics, 29(13), i117–25. doi:10.1093/bioinformatics/btt221
-[PDF]
+F Mordelet, J Horton, AJ Hartemink, BE Engelhardt, R Gordân (2013). Stability selection for regression-based models of transcription factor-DNA binding specificity. *Bioinformatics*, 29(13):i117–25. [[PDF](doi:10.1093/bioinformatics/btt221)]
 
-Brown, C. D., Mangravite, L. M., & Engelhardt, B. E.. (2013). Integrative modeling of eQTLs and cis-regulatory elements suggests mechanisms underlying cell type specificity of eQTLs. PLoS Genetics, 9(8), e1003649. doi:10.1371/journal.pgen.1003649
-[PDF]
+CD Brown, LM Mangravite, BE Engelhardt (2013). Integrative modeling of eQTLs and cis-regulatory elements suggests mechanisms underlying cell type specificity of eQTLs. *PLoS Genetics*, 9(8):e1003649. [[PDF](doi:10.1371/journal.pgen.1003649)]
 
 KE Muratore, BE Engelhardt, JR Srouji, MI Jordan, SE Brenner, JF Kirsch (2013). Molecular function prediction for a family exhibiting evolutionary tendencies toward substrate specificity swapping: Recurrence of tyrosine aminotransferase activity in the I$\alpha$ subfamily. *Proteins: Structure, Function, and Bioinformatics*, 81(9):1593–1609.
 [[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3823064/pdf/prot0081-1593.pdf)]
