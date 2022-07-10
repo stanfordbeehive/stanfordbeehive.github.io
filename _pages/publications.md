@@ -36,7 +36,7 @@ C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse a
 
 ## Publications
 
-SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and understanding of biological timecourse data. *Biochemical Journal* [[PDF](https://doi.org/10.1042/BCJ20220053)]
+SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and understanding of biological timecourse data. *Biochemical Journal* 479 (11): 1257–1263. [[PDF](https://doi.org/10.1042/BCJ20220053)]
 
 G Martinet, A Strzalkowski, BE Engelhardt (2022). Variance minimization in the Wasserstein space for invariant causal prediction. *Artificial Intelligence and Statistics (AISTATS)*. [[PDF](https://proceedings.mlr.press/v151/martinet22a/martinet22a.pdf)] [[Code](https://github.com/astrzalk/WVM_reproducibility)] [[Post](https://stanfordbeehive.github.io/WMD/)]
 
@@ -51,20 +51,20 @@ J Ash*, G Darnell*, D Munro*, BE Engelhardt (2021). Joint analysis of gene expre
 B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications*, 12(1186).
 [PDF] [[Code](https://github.com/solevillar/scGeneFit-python)]
 
-J Lu, B Dumitrascu, IC McDowell, AK Barrera, SM Leichter, TE Reddy, BE Engelhardt (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. *PLoS Computational Biology*, 17(1), e1008223.
+J Lu, B Dumitrascu, IC McDowell, AK Barrera, SM Leichter, TE Reddy, BE Engelhardt (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. *PLoS Computational Biology*, 17(1):e1008223.
 [[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008223)] [[Code](https://github.com/lujonathanh/BETS)]
 
-Gundersen, G. W., Cai, D., Zhou, C., Engelhardt, B. E., & Adams, R. P.. (2021). Active multi-fidelity Bayesian online changepoint detection. Uncertainty in Artifical Intelligence (UAI).
-[PDF]
+GW Gundersen, D Cai, C Zhou, BE Engelhardt, RP Adams (2021). Active multi-fidelity Bayesian online changepoint detection. *Uncertainty in Artifical Intelligence (UAI).*
+[[PDF](https://proceedings.mlr.press/v161/gundersen21a/gundersen21a.pdf)]
 
-Wu, A., Nastase, S. A., Baldassano, C. A., Turk-Browne, N. B., Norman, K. A., Engelhardt, B. E., & Pillow, J. W.. (2021). Brain kernel: a new spatial covariance function for fMRI data. NeuroImage, 15(245), 118580.
-[PDF]
+A Wu, SA Nastase, CA Baldassano, NB Turk-Browne, KA Norman, BE Engelhardt, JW & Pillow (2021). Brain kernel: A new spatial covariance function for fMRI data. *NeuroImage* 15(245):118580.
+[[PDF](https://www.sciencedirect.com/science/article/pii/S1053811921008533?via%3Dihub)]
 
-A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. *Proceedings of the National Academy of Sciences (PNAS)*, 118, e2026123118.
+A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. *Proceedings of the National Academy of Sciences (PNAS)*, 118:e2026123118.
 [PDF] [[Code](https://github.com/architverma1/CPP)]
 
-Mandyam, A., Yoo, E. C., Soules, J., Laudanski, K., & Engelhardt, B. E.. (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB).
-[PDF]
+A Mandyam, EC Yoo, J Soules, K Laudanski, BE Engelhardt (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. *Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB)*.
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/aishwarya-rm/cop-e-cat)]
 
 Gundersen, G. W., Zhang, M. M., & Engelhardt, B. E.. (2021). Latent variable modeling with random features. Artificial Intelligence and Statistics (AISTATS).
 [PDF]
