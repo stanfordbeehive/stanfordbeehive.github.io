@@ -79,24 +79,19 @@ M Oliva, GTEx Consortium, et al. (2020). The impact of sex on gene expression ac
 GTEx Consortium. (2020). The GTEx Consortium atlas of genetic regulatory effects across human tissues. *Science* 369:1318–1330. 
 [[PDF](doi:10.1126/science.aaz1776)]
 
-Gill, D., Arvanitis, M., Carter, P., Cordero, A. H. I., Jo, B., Karhunen, V., Larsson, S. C., Li, X., Lockhart, S. M., Mason, A., Pashos, E., Saha, A., Tan, V. Y., Zuber, V., Bossé, Y., Fahle, S., Hao, K., Jiang, T., Joubert, P., Lunt†, A. C., Ouwehand, W. H., Roberts, D. J., Timens, W., van den Berge, M., Watkins, N. A., Battle, A., Butterworth, A. S., Danesh, J., Angelantonio, E. D., Engelhardt, B. E., Peters, J. E., Sin, D. D., & Burgess, S.. (2020). ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma *ACE2* levels: a Mendelian randomization study. Royal Society of Open Science, 7, 200958.
-[PDF]
+D Gill, M Arvanitis, P Carter, AHI Cordero, B Jo, V Karhunen, SC Larsson, X Li, SM Lockhart, A Mason, E Pashos, A Saha, VY Tan, V Zuber, Y Bossé, S Fahle, K Hao, T Jiang, P Joubert, AC Lunt†, WH Ouwehand, DJ Roberts, W Timens, M van den Berge, NA Watkins, A Battle, AS Butterworth, J Danesh, ED Angelantonio, BE Engelhardt, JE Peters, DD Sin, S Burgess (2020). ACE inhibition and cardiometabolic risk factors, lung *ACE2* and *TMPRSS2* gene expression, and plasma *ACE2* levels: a Mendelian randomization study. *Royal Society of Open Science* 7:200958. [[PDF](https://pubmed.ncbi.nlm.nih.gov/33391794/)]
 
 A Verma, BE Engelhardt (2020). A robust nonlinear low-dimensional manifold for single cell RNA-seq data. *BMC Bioinformatics* 21(324).
 [[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03625-z)] [[Code]](https://github.com/architverma1/tGPLVM)
 
 R Elyanow, B Dumitrascu, BE Engelhardt, BE Raphael (2020). netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis. *Genome Research*, 20(2):195–204. [[PDF](https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119)]
 
-Cheng, L., Prasad, N., & Engelhardt, B. E.. (2019). An optimal policy for patient laboratory tests in intensive care units. Proceedings of the Pacific Symposium on Biocomputing (PSB). [PDF]
+L Cheng, N Prasad, BE Engelhardt (2019). An optimal policy for patient laboratory tests in intensive care units. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*. [[PDF](https://www.worldscientific.com/doi/10.1142/9789813279827_0029)]
 
-Guan, G., & Engelhardt, B. E.. (2019). Predicting sick patient volume in a pediatric outpatient setting using time series analysis. Proceedings of Machine Learning for Health Care (MLHC).
-[PDF]
+G Guan, BE Engelhardt (2019). Predicting sick patient volume in a pediatric outpatient setting using time series analysis. *Proceedings of Machine Learning for Health Care (MLHC).* [[PDF](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)]
 
-Elyanow, R., Dumitrascu, B., Engelhardt, B. E., & Raphael, B. J.. (2019). netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis. Proceedings of the 23rd International Conference on Research in Computational Molecular Biology (RECOMB).
-[PDF]
-
-Gundersen, G., Dumitrascu, B., & Engelhardt, B. E.. (2019). End-to-end training of deep probabilistic CCA on paired biomedical observations. in Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI).
-[PDF]
+G Gundersen, B Dumitrascu, BE Engelhardt (2019). End-to-end training of deep probabilistic CCA on paired biomedical observations. *Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI).*
+[[PDF](http://proceedings.mlr.press/v115/gundersen20a.html)]
 
 IC McDowell, D Manandhar, CM Vockley, A Schmid, TE Reddy\*, BE Engelhardt\* (2018). Clustering gene expression time series data using an infinite Gaussian process mixture model. *PLoS Computational Biology*, 14(1):e1005896.
 [[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005896)] [[Code](https://github.com/PrincetonUniversity/DP_GP_cluster)]
@@ -107,11 +102,9 @@ B Dumitrascu, G Darnell, J Ayroles, BE Engelhardt (2018). A Bayesian test to ide
 IC McDowell, A Barrero, AM D’Ippolito, CM Vockley, LK Hong, SM Leichter, LC Bartelt, WH Majoros, L Song, A Safi, DD Koçak, CA Gersbach, AJ Hartemink, GE Crawford, BE Engelhardt, TE Reddy (2018). Glucocorticoid receptor recruits to enhancers and drives activation by motif-directed binding. *Genome Research*, 28(9):1272-1284.
 [[PDF](https://pubmed.ncbi.nlm.nih.gov/30097539/)]
 
-Aguiar, D., Cheng, L., Dumitrascu, B., Mordelet, F., Pai, A. A., & Engelhardt, B. E.. (2018). BIISQ: Bayesian nonparametric discovery of Isoforms and Individual Specific Quantification. Nature Communications, 9(1681).
-[PDF]
+D Aguiar, L Cheng, B Dumitrascu, F Mordelet, AA Pai, BE Engelhardt (2018). BIISQ: Bayesian nonparametric discovery of Isoforms and Individual Specific Quantification. *Nature Communications* 9(1681). [[PDF](https://www.nature.com/articles/s41467-018-03402-w)] [[Code](https://github.com/bee-hive/BIISQ)]
 
-Chaney, A. J. B., Stewart, B. M., & Engelhardt, B. E.. (2018). How algorithmic confounding in recommendation systems increases homogeneity and decreases utility. 12th ACM Conference on Recommender Systems.
-[PDF]
+AJB Chaney, BM Stewart, BE Engelhardt (2018). How algorithmic confounding in recommendation systems increases homogeneity and decreases utility. *Proceedings of the 12th ACM Conference on Recommender Systems.* [[PDF](https://dl.acm.org/doi/10.1145/3240323.3240370)]
 
 Dumitrascu*, B., Feng*, K., & Engelhardt, B. E.. (2018). PG-TS: Improved Thompson sampling for logistic contextual bandits. Proceedings of Neural Information Processing Systems (NeurIPS).
 [PDF]
