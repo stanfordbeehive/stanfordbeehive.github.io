@@ -48,29 +48,25 @@ S Cui, EC Yoo, D Li, K Laudanski, BE Engelhardt (2022). Hierarchical Gaussian pr
 J Ash*, G Darnell*, D Munro*, BE Engelhardt (2021). Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology. *Nature Communications*, 12(1609).
 [PDF] [[Code](https://github.com/daniel-munro/imageCCA)]
 
-B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications*, 12(1186).
-[PDF] [[Code](https://github.com/solevillar/scGeneFit-python)]
+B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications*, 12(1186). [[PDF](https://www.nature.com/articles/s41467-021-21453-4)] [[Code](https://github.com/solevillar/scGeneFit-python)]
 
 J Lu, B Dumitrascu, IC McDowell, AK Barrera, SM Leichter, TE Reddy, BE Engelhardt (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. *PLoS Computational Biology*, 17(1):e1008223.
 [[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008223)] [[Code](https://github.com/lujonathanh/BETS)]
 
-GW Gundersen, D Cai, C Zhou, BE Engelhardt, RP Adams (2021). Active multi-fidelity Bayesian online changepoint detection. *Uncertainty in Artifical Intelligence (UAI).*
-[[PDF](https://proceedings.mlr.press/v161/gundersen21a/gundersen21a.pdf)]
+GW Gundersen, D Cai, C Zhou, BE Engelhardt, RP Adams (2021). Active multi-fidelity Bayesian online changepoint detection. *Uncertainty in Artifical Intelligence (UAI).* [[PDF](https://proceedings.mlr.press/v161/gundersen21a/gundersen21a.pdf)]
 
-A Wu, SA Nastase, CA Baldassano, NB Turk-Browne, KA Norman, BE Engelhardt, JW & Pillow (2021). Brain kernel: A new spatial covariance function for fMRI data. *NeuroImage* 15(245):118580.
-[[PDF](https://www.sciencedirect.com/science/article/pii/S1053811921008533?via%3Dihub)]
+A Wu, SA Nastase, CA Baldassano, NB Turk-Browne, KA Norman, BE Engelhardt, JW & Pillow (2021). Brain kernel: A new spatial covariance function for fMRI data. *NeuroImage* 15(245):118580. [[PDF](https://www.sciencedirect.com/science/article/pii/S1053811921008533?via%3Dihub)]
 
-A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. *Proceedings of the National Academy of Sciences (PNAS)*, 118:e2026123118.
-[PDF] [[Code](https://github.com/architverma1/CPP)]
+A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. *Proceedings of the National Academy of Sciences (PNAS)* 118:e2026123118.
+[[PDF](https://www.pnas.org/doi/10.1073/pnas.2026123118)] [[Code](https://github.com/architverma1/CPP)]
 
 A Mandyam, EC Yoo, J Soules, K Laudanski, BE Engelhardt (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. *Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB)*.
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/aishwarya-rm/cop-e-cat)]
 
-Gundersen, G. W., Zhang, M. M., & Engelhardt, B. E.. (2021). Latent variable modeling with random features. Artificial Intelligence and Statistics (AISTATS).
-[PDF]
+GW Gundersen, MW Zhang, BE Engelhardt (2021). Latent variable modeling with random features. *Artificial Intelligence and Statistics (AISTATS).*
+[[PDF](http://proceedings.mlr.press/v130/gundersen21a/gundersen21a.pdf)]
 
-Prasad, N., Engelhardt, B. E., & Doshi-Velez, F.. (2020). Defining admissible rewards for high confidence policy evaluation. ACM Conference on Health, Inference, and Learning (CHIL).
-[PDF]
+N Prasad, BE Engelhardt, F Doshi-Velez (2020). Defining admissible rewards for high confidence policy evaluation. *ACM Conference on Health, Inference, and Learning (CHIL)*. [[PDF](https://dl.acm.org/doi/10.1145/3368555.3384450)]
 
 Cheng, L., Dumitrascu, B., Zhang, M. M., Chivers, C., Draugelis, M. E., Li, K., & Engelhardt, B. E.. (2020). Patient-specific effects of medication using latent force models with Gaussian processes. Artificial Intelligence and Statistics (AISTATS).
 [PDF]
