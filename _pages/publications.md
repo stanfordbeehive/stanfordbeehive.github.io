@@ -163,20 +163,16 @@ Tonner, P. D., Darnell, C. D., Engelhardt, B. E., & Schmid, A.. (2016). Detectin
 Zhao, S., Gao, C., Mukherjee, S., & Engelhardt, B. E.. (2016). Bayesian group latent factor analysis with structured sparse priors. Journal of Machine Learning Research (JMLR).
 [PDF]
 
-Engelhardt, B. E., & Brown, C. D.. (2015). Diving deeper to predict noncoding sequence function. *Nature Methods (News & Views*; not peer-reviewed), 12(10), 925–926.
-[PDF]
+BE Engelhardt, CD Brown (2015). Diving deeper to predict noncoding sequence function. *Nature Methods (News & Views*; not peer-reviewed), 12(10):925–926. [[PDF](https://www.nature.com/articles/nmeth.3604)]
 
 van Den Berg, S. M., de Moor, M. H., Verweij, K. J., Krueger, R. F., Luciano, M., Vasquez, A. A., Matteson, L. K., Derringer, J., Esko, T., Amin, N., & others. (2015). Meta-analysis of genome-wide association studies for extraversion: Findings from the Genetics of Personality Consortium. *Behavior Genetics*, 1–13. doi:10.1007/s10519-015-9735-5
 [PDF]
 
-Zhang, W., Spector, T., Deloukas, P., Bell, J., & Engelhardt, B. E.. (2015). Predicting genome-wide DNA methylation using methylation marks, genomic position, and DNA regulatory elements. *Genome Biology*, 16(1), 14. doi:10.1186/s13059-015-0581-9
-[PDF]
+W Zhang, T Spector, P Deloukas, JT Bell, BE Engelhardt (2015). Predicting genome-wide DNA methylation using methylation marks, genomic position, and DNA regulatory elements. *Genome Biology*, 16(1):14. [[PDF](doi:10.1186/s13059-015-0581-9)]
 
-Mimno, D., Blei, D. M., & Engelhardt, B. E.. (2015). Posterior predictive checks to quantify lack-of-fit in admixture models of latent population structure. *Proceedings of the National Academy of Sciences (PNAS)*, 112(26), E3341–50. doi:10.1073/pnas.1412301112
-[PDF]
+D Mimno, DM Blei, BE Engelhardt (2015). Posterior predictive checks to quantify lack-of-fit in admixture models of latent population structure. *Proceedings of the National Academy of Sciences (PNAS)*, 112(26):E3341–50. [[PDF](doi:10.1073/pnas.1412301112)] [[Code](https://github.com/mimno/admixture-ppc)]
 
-Genetics of Personality Consortium. (2015). Meta-analysis of genome-wide association studies for neuroticism, and the polygenic association with major depressive disorder. *JAMA Psychiatry*, 72(7), 642-650. doi:10.1001/jamapsychiatry.2015.0554
-[PDF]
+Genetics of Personality Consortium. (2015). Meta-analysis of genome-wide association studies for neuroticism, and the polygenic association with major depressive disorder. *JAMA Psychiatry*, 72(7):642-650. [[PDF](doi:10.1001/jamapsychiatry.2015.0554)]
 
 AB Hart, ER Gamazon, BE Engelhardt, P Sklar, AK Kähler, CM Hultman, PF Sullivan, BM Neale, SV Faraone, H de Wit, NJ Cox, A Palmer (2014). Genetic variation associated with euphorigenic effects of *d*-amphetamine is associated with diminished risk for schizophrenia and attention deficit hyperactivity disorder. *Proceedings of the National Academy of Sciences (PNAS)*, 111(16):5968–73.
 [[PDF](doi:10.1073/pnas.1318810111)]
