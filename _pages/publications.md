@@ -93,14 +93,12 @@ GTEx Consortium. (2020). The GTEx Consortium atlas of genetic regulatory effects
 Gill, D., Arvanitis, M., Carter, P., Cordero, A. H. I., Jo, B., Karhunen, V., Larsson, S. C., Li, X., Lockhart, S. M., Mason, A., Pashos, E., Saha, A., Tan, V. Y., Zuber, V., Bossé, Y., Fahle, S., Hao, K., Jiang, T., Joubert, P., Lunt†, A. C., Ouwehand, W. H., Roberts, D. J., Timens, W., van den Berge, M., Watkins, N. A., Battle, A., Butterworth, A. S., Danesh, J., Angelantonio, E. D., Engelhardt, B. E., Peters, J. E., Sin, D. D., & Burgess, S.. (2020). ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study. Royal Society of Open Science, 7, 200958.
 [PDF]
 
-Verma, A., & Engelhardt, B. E. (2020). A robust nonlinear low-dimensional manifold for single cell RNA-seq data. BMC Bioinformatics, 21(324).
-[PDF] [[Code]](https://github.com/architverma1/tGPLVM)
+A Verma, BE Engelhardt (2020). A robust nonlinear low-dimensional manifold for single cell RNA-seq data. *BMC Bioinformatics*, 21(324).
+[[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03625-z)] [[Code]](https://github.com/architverma1/tGPLVM)
 
-Elyanow, R., Dumitrascu, B., Engelhardt, B. E., & Raphael, B. J.. (2020). netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis. Genome Research, 20(2), 195–204.
-[PDF]
+R Elyanow, B Dumitrascu, BE Engelhardt, BE Raphael (2020). netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis. *Genome Research*, 20(2):195–204. [[PDF](https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119)]
 
-Cheng, L., Prasad, N., & Engelhardt, B. E.. (2019). An optimal policy for patient laboratory tests in intensive care units. Proceedings of the Pacific Symposium on Biocomputing (PSB).
-[PDF]
+Cheng, L., Prasad, N., & Engelhardt, B. E.. (2019). An optimal policy for patient laboratory tests in intensive care units. Proceedings of the Pacific Symposium on Biocomputing (PSB). [PDF]
 
 Guan, G., & Engelhardt, B. E.. (2019). Predicting sick patient volume in a pediatric outpatient setting using time series analysis. Proceedings of Machine Learning for Health Care (MLHC).
 [PDF]
