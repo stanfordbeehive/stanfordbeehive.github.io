@@ -36,60 +36,53 @@ C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse a
 
 ## Publications
 
-SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and understanding of biological timecourse data. *Biochemical Journal* 479 (11): 1257–1263. [[PDF](https://doi.org/10.1042/BCJ20220053)]
+SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and understanding of biological timecourse data. *Biochemical Journal* 479(11): 1257–1263. [[PDF](https://doi.org/10.1042/BCJ20220053)]
 
 G Martinet, A Strzalkowski, BE Engelhardt (2022). Variance minimization in the Wasserstein space for invariant causal prediction. *Artificial Intelligence and Statistics (AISTATS)*. [[PDF](https://proceedings.mlr.press/v151/martinet22a/martinet22a.pdf)] [[Code](https://github.com/astrzalk/WVM_reproducibility)] [[Post](https://stanfordbeehive.github.io/WMD/)]
 
 A Jones, FW Townes, D Li, BE Engelhardt (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF] [[arXiv](https://arxiv.org/abs/2102.06731)] [[Code](https://github.com/andrewcharlesjones/cplvm)]
 
-S Cui, EC Yoo, D Li, K Laudanski, BE Engelhardt (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*.
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/eyeshoe/cop-e-cat)]
+S Cui, EC Yoo, D Li, K Laudanski, BE Engelhardt (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/eyeshoe/cop-e-cat)]
 
-J Ash*, G Darnell*, D Munro*, BE Engelhardt (2021). Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology. *Nature Communications*, 12(1609).
-[PDF] [[Code](https://github.com/daniel-munro/imageCCA)]
+J Ash\*, G Darnell\*, D Munro\*, BE Engelhardt (2021). Joint analysis of gene expression levels and histological images identifies genes associated with tissue morphology. *Nature Communications* 12(1609). [[PDF](https://www.nature.com/articles/s41467-021-21727-x)] [[Code](https://github.com/daniel-munro/imageCCA)]
 
-B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications*, 12(1186). [[PDF](https://www.nature.com/articles/s41467-021-21453-4)] [[Code](https://github.com/solevillar/scGeneFit-python)]
+B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene selection for cell type discrimination in single cell analyses. *Nature Communications* 12(1186). [[PDF](https://www.nature.com/articles/s41467-021-21453-4)] [[Code](https://github.com/solevillar/scGeneFit-python)]
 
-J Lu, B Dumitrascu, IC McDowell, AK Barrera, SM Leichter, TE Reddy, BE Engelhardt (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. *PLoS Computational Biology*, 17(1):e1008223.
+J Lu, B Dumitrascu, IC McDowell, AK Barrera, SM Leichter, TE Reddy, BE Engelhardt (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. *PLoS Computational Biology* 17(1):e1008223.
 [[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008223)] [[Code](https://github.com/lujonathanh/BETS)]
 
 GW Gundersen, D Cai, C Zhou, BE Engelhardt, RP Adams (2021). Active multi-fidelity Bayesian online changepoint detection. *Uncertainty in Artifical Intelligence (UAI).* [[PDF](https://proceedings.mlr.press/v161/gundersen21a/gundersen21a.pdf)]
 
 A Wu, SA Nastase, CA Baldassano, NB Turk-Browne, KA Norman, BE Engelhardt, JW & Pillow (2021). Brain kernel: A new spatial covariance function for fMRI data. *NeuroImage* 15(245):118580. [[PDF](https://www.sciencedirect.com/science/article/pii/S1053811921008533?via%3Dihub)]
 
-A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. *Proceedings of the National Academy of Sciences (PNAS)* 118:e2026123118.
-[[PDF](https://www.pnas.org/doi/10.1073/pnas.2026123118)] [[Code](https://github.com/architverma1/CPP)]
+A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-exciting point process to study multi-cellular spatial signaling patterns. *Proceedings of the National Academy of Sciences (PNAS)* 118:e2026123118. [[PDF](https://www.pnas.org/doi/10.1073/pnas.2026123118)] [[Code](https://github.com/architverma1/CPP)]
 
-A Mandyam, EC Yoo, J Soules, K Laudanski, BE Engelhardt (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. *Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB)*.
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/aishwarya-rm/cop-e-cat)]
+A Mandyam, EC Yoo, J Soules, K Laudanski, BE Engelhardt (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. *Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB)*. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/aishwarya-rm/cop-e-cat)]
 
 GW Gundersen, MW Zhang, BE Engelhardt (2021). Latent variable modeling with random features. *Artificial Intelligence and Statistics (AISTATS).*
 [[PDF](http://proceedings.mlr.press/v130/gundersen21a/gundersen21a.pdf)]
 
 N Prasad, BE Engelhardt, F Doshi-Velez (2020). Defining admissible rewards for high confidence policy evaluation. *ACM Conference on Health, Inference, and Learning (CHIL)*. [[PDF](https://dl.acm.org/doi/10.1145/3368555.3384450)]
 
-Cheng, L., Dumitrascu, B., Zhang, M. M., Chivers, C., Draugelis, M. E., Li, K., & Engelhardt, B. E.. (2020). Patient-specific effects of medication using latent force models with Gaussian processes. Artificial Intelligence and Statistics (AISTATS).
-[PDF]
+L Cheng, B Dumitrascu, MM Zhang, C Chivers, ME Draugelis, K Li, BE Engelhardt (2020). Patient-specific effects of medication using latent force models with Gaussian processes. *Artificial Intelligence and Statistics (AISTATS).* [[PDF](https://proceedings.mlr.press/v108/cheng20c.html)]
 
-Salganik, M., & others. (2020). Measuring the predictability of life outcomes with a scientific mass collaboration. Proceedings of the National Academy of Sciences (PNAS).
-[PDF]
+M Salganik et al. (2020). Measuring the predictability of life outcomes with a scientific mass collaboration. *Proceedings of the National Academy of Sciences (PNAS)* 117(15):8398-8403. [[PDF](https://www.pnas.org/doi/10.1073/pnas.1915006117)]
 
 Cheng, L., Darnell, G., Chivers, C., Draugelis, M. E., Li, K., & Engelhardt, B. E.. (2020). Sparse multi-output Gaussian processes for medical time series prediction. BMC Medical Informatics and Decision Making, 20(152).
 [PDF]
 
-Camerlenghi*, F., Dumitrascu*, B., Ferrari, F., Engelhardt, B. E., & Favaro, S.. (2020). Nonparametric Bayesian multi-armed bandits for single cell experiment design. Annals of Applied Statistics (AOAS).
-[PDF] [[Code]](https://github.com/fedfer/HPYsinglecell)
+F Camerlenghi\*, B Dumitrascu\*, F Ferrari, BE Engelhardt, S Favaro (2020). Nonparametric Bayesian multi-armed bandits for single cell experiment design. *Annals of Applied Statistics (AOAS)* 14(4):2003-2019. [[PDF](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/Nonparametric-Bayesian-multiarmed-bandits-for-single-cell-experiment-design/10.1214/20-AOAS1370.short)] [[Code]](https://github.com/fedfer/HPYsinglecell)
 
-Oliva, M., GTEx Consortium, & others. (2020). The impact of sex on gene expression across human tissues. Science, 369. doi:10.1126/science.aba3066
+M Oliva, GTEx Consortium, et al. (2020). The impact of sex on gene expression across human tissues. *Science* 369(6509) 
+[[PDF](doi:10.1126/science.aba3066)]
+
+GTEx Consortium. (2020). The GTEx Consortium atlas of genetic regulatory effects across human tissues. *Science* 369:1318–1330. 
+[[PDF](doi:10.1126/science.aaz1776)]
+
+Gill, D., Arvanitis, M., Carter, P., Cordero, A. H. I., Jo, B., Karhunen, V., Larsson, S. C., Li, X., Lockhart, S. M., Mason, A., Pashos, E., Saha, A., Tan, V. Y., Zuber, V., Bossé, Y., Fahle, S., Hao, K., Jiang, T., Joubert, P., Lunt†, A. C., Ouwehand, W. H., Roberts, D. J., Timens, W., van den Berge, M., Watkins, N. A., Battle, A., Butterworth, A. S., Danesh, J., Angelantonio, E. D., Engelhardt, B. E., Peters, J. E., Sin, D. D., & Burgess, S.. (2020). ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma *ACE2* levels: a Mendelian randomization study. Royal Society of Open Science, 7, 200958.
 [PDF]
 
-GTEx Consortium. (2020). The GTEx Consortium atlas of genetic regulatory effects across human tissues. Science, 369, 1318–1330. doi:10.1126/science.aaz1776
-[PDF]
-
-Gill, D., Arvanitis, M., Carter, P., Cordero, A. H. I., Jo, B., Karhunen, V., Larsson, S. C., Li, X., Lockhart, S. M., Mason, A., Pashos, E., Saha, A., Tan, V. Y., Zuber, V., Bossé, Y., Fahle, S., Hao, K., Jiang, T., Joubert, P., Lunt†, A. C., Ouwehand, W. H., Roberts, D. J., Timens, W., van den Berge, M., Watkins, N. A., Battle, A., Butterworth, A. S., Danesh, J., Angelantonio, E. D., Engelhardt, B. E., Peters, J. E., Sin, D. D., & Burgess, S.. (2020). ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study. Royal Society of Open Science, 7, 200958.
-[PDF]
-
-A Verma, BE Engelhardt (2020). A robust nonlinear low-dimensional manifold for single cell RNA-seq data. *BMC Bioinformatics*, 21(324).
+A Verma, BE Engelhardt (2020). A robust nonlinear low-dimensional manifold for single cell RNA-seq data. *BMC Bioinformatics* 21(324).
 [[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03625-z)] [[Code]](https://github.com/architverma1/tGPLVM)
 
 R Elyanow, B Dumitrascu, BE Engelhardt, BE Raphael (2020). netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis. *Genome Research*, 20(2):195–204. [[PDF](https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119)]
