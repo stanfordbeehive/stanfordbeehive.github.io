@@ -111,14 +111,14 @@ Elyanow, R., Dumitrascu, B., Engelhardt, B. E., & Raphael, B. J.. (2019). netNMF
 Gundersen, G., Dumitrascu, B., & Engelhardt, B. E.. (2019). End-to-end training of deep probabilistic CCA on paired biomedical observations. in Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI).
 [PDF]
 
-McDowell, I. C., Manandhar, D., Vockley, C. M., Schmid, A., Reddy*, T. E., & Engelhardt*, B. E.. (2018). Clustering gene expression time series data using an infinite Gaussian process mixture model. PLoS Computational Biology, 14(1), e1005896.
-[PDF]
+IC McDowell, D Manandhar, CM Vockley, A Schmid, TE Reddy\*, BE Engelhardt\* (2018). Clustering gene expression time series data using an infinite Gaussian process mixture model. *PLoS Computational Biology*, 14(1):e1005896.
+[[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005896)] [[Code](https://github.com/PrincetonUniversity/DP_GP_cluster)]
 
-Dumitrascu, B., Darnell, G., Ayroles, J., & Engelhardt, B. E.. (2018). A Bayesian test to identify variance effects. Bioinformatics, bty565.
-[PDF] [[Code]](https://github.com/b2du/bth)
+B Dumitrascu, G Darnell, J Ayroles, BE Engelhardt (2018). A Bayesian test to identify variance effects. *Bioinformatics*, bty565.
+[[PDF](https://academic.oup.com/bioinformatics/article/35/2/200/5050024)] [[Code]](https://github.com/b2du/bth)
 
-McDowell, I. C., Barrero, A., D’Ippolito, A. M., Vockley, C. M., Hong, L. K., Leichter, S. M., Bartelt, L. C., Majoros, W. H., Song, L., Safi, A., Koçak, D. D., Gersbach, C. A., Hartemink, A. J., Crawford, G. E., Engelhardt, B. E., & Reddy, T. E.. (2018). Glucocorticoid receptor recruits to enhancers and drives activation by motif-directed binding. Genome Research.
-[PDF]
+IC McDowell, A Barrero, AM D’Ippolito, CM Vockley, LK Hong, SM Leichter, LC Bartelt, WH Majoros, L Song, A Safi, DD Koçak, CA Gersbach, AJ Hartemink, GE Crawford, BE Engelhardt, TE Reddy (2018). Glucocorticoid receptor recruits to enhancers and drives activation by motif-directed binding. *Genome Research*, 28(9):1272-1284.
+[[PDF](https://pubmed.ncbi.nlm.nih.gov/30097539/)]
 
 Aguiar, D., Cheng, L., Dumitrascu, B., Mordelet, F., Pai, A. A., & Engelhardt, B. E.. (2018). BIISQ: Bayesian nonparametric discovery of Isoforms and Individual Specific Quantification. Nature Communications, 9(1681).
 [PDF]
