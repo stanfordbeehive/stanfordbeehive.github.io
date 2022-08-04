@@ -109,20 +109,15 @@ B Dumitrascu*, K Feng*, BE Engelhardt (2018). PG-TS: Improved Thompson sampling 
 
 JD Cohen, N Daw, BE Engelhardt, U Hasson, K Li, Y Niv, KA Norman, J Pillow, PJ Ramadge, NB Turk-Browne, TL Willke (2017). Computational approaches to fMRI analysis. *Nature Neuroscience* 20(3):304–313. [[PDF](https://www.nature.com/articles/nn.4499)]
 
-Srivastava, S., Engelhardt, B. E., & Dunson, D. B.. (2017). Expandable factor analysis. Biometrika, asx030.
-[PDF]
+S Srivastava, BE Engelhardt, DB Dunson (2017). Expandable factor analysis. *Biometrika* 104(3):649–663.[[PDF](https://academic.oup.com/biomet/article/104/3/649/3869470)]
 
-GTEx Consortium, Battle*, A., Brown*, C. D., Engelhardt*, B. E., & Montgomery*, S. M.. (2017). Genetic effects on gene expression across human tissues. Nature, 550, 204–213.
-[PDF]
+GTEx Consortium, A Battle\*, CD Brown\*, BE Engelhardt\*, SM Montgomery\* (2017). Genetic effects on gene expression across human tissues. *Nature* 550: 204–213. [[PDF](https://www.nature.com/articles/nature24277)]
 
-Zhao, S., Engelhardt, B. E., Mukherjee, S., & Dunson, D. B.. (2017). Fast moment estimation for generalized latent Dirichlet models. Journal of the American Statistical Association (JASA).
-[PDF]
+S Zhao, BE Engelhardt, S Mukherjee, DB Dunson (2017). Fast moment estimation for generalized latent Dirichlet models. *Journal of the American Statistical Association (JASA)* 113(524):1528–1540. [[PDF](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1341839)]
 
-Darnell, G., Georgiev, S., Mukherjee, S., & Engelhardt, B. E.. (2017). Adaptive randomized dimension reduction on massive data. Journal of Machine Learning Research (JMLR), 18(140), 1-30.
-[PDF]
+G Darnell, S Georgiev, S Mukherjee, BE Engelhardt (2017). Adaptive randomized dimension reduction on massive data. *Journal of Machine Learning Research (JMLR)* 18(140):1-30. [[PDF](https://jmlr.org/papers/v18/15-143.html)]
 
-Saha, A., Kim*, Y., Gewirtz*, A. D. H., Jo, B., Gao, C., McDowell, I. C., GTEx Consortium, Engelhardt*, B. E., & Battle*, A.. (2017). Co-expression networks reveal the tissue-specific regulation of transcription and splicing. Genome Research, 27(11), 1843–1858.
-[PDF]
+A Saha, Y Kim*, ADH Gewirtz*, B Jo, C Gao, IC McDowell, GTEx Consortium, BE Engelhardt\*, A Battle\* (2017). Co-expression networks reveal the tissue-specific regulation of transcription and splicing. *Genome Research* 27(11):1843–1858. [[PDF](https://genome.cshlp.org/content/27/11/1843.short)]
 
 Prasad, N., Cheng, L., Chivers, C., Draugelis, M., & Engelhardt, B. E.. (2017). A reinforcement learning approach to weaning of mechanical ventilation in intensive care units. Proceedings of Uncertainty in Artificial Intelligence (UAI), 1–9.
 [PDF]
