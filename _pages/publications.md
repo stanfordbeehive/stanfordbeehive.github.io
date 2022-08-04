@@ -14,8 +14,6 @@ A Mandyam, A Jones, K Laudanski, BE Engelhardt. Nested policy reinforcement lear
 
 A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [[Code](https://github.com/andrewcharlesjones/spatial-alignment)] [[Post](https://stanfordbeehive.github.io/GPSA/)]
 
-AD Gewirtz, FW Townes, BE Engelhardt (2021). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156)] [[Code](https://github.com/gewirtz/TBLDA)]
-
 FW Townes, BE Engelhardt. Nonnegative spatial factorization. [[arXiv](https://arxiv.org/abs/2110.06122)] [[Code](https://github.com/willtownes/nsf-paper)]
 
 D Li\*, A Jones\*, BE Engelhardt. Probabilistic contrastive principal component analysis. [PDF] [[Code](https://github.com/andrewcharlesjones/pcpca)]
@@ -35,6 +33,8 @@ AJB Chaney, A Verma, Y Lee, BE Engelhardt. Nonparametric deconvolution models. [
 C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse and dense factors to model gene expression data affected by technical and biological covariates. [PDF]
 
 ## Publications
+
+AD Gewirtz, FW Townes, BE Engelhardt (2022). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. *Life Scienec Alliance (to appear)*. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156)] [[Code](https://github.com/gewirtz/TBLDA)] [[Post](https://stanfordbeehive.github.io/TBLDA/)]
 
 SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and understanding of biological timecourse data. *Biochemical Journal* 479(11): 1257–1263. [[PDF](https://doi.org/10.1042/BCJ20220053)]
 
@@ -68,10 +68,9 @@ L Cheng, B Dumitrascu, MM Zhang, C Chivers, ME Draugelis, K Li, BE Engelhardt (2
 
 M Salganik et al. (2020). Measuring the predictability of life outcomes with a scientific mass collaboration. *Proceedings of the National Academy of Sciences (PNAS)* 117(15):8398-8403. [[PDF](https://www.pnas.org/doi/10.1073/pnas.1915006117)]
 
-Cheng, L., Darnell, G., Chivers, C., Draugelis, M. E., Li, K., & Engelhardt, B. E.. (2020). Sparse multi-output Gaussian processes for medical time series prediction. BMC Medical Informatics and Decision Making, 20(152).
-[PDF]
+L Cheng, G Darnell, C Chivers, ME Draugelis, K Li, BE Engelhardt (2020). Sparse multi-output Gaussian processes for medical time series prediction. *BMC Medical Informatics and Decision Making* 20(152). [[PDF](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1069-4)] [[Code](https://github.com/bee-hive/MedGP)]
 
-F Camerlenghi\*, B Dumitrascu\*, F Ferrari, BE Engelhardt, S Favaro (2020). Nonparametric Bayesian multi-armed bandits for single cell experiment design. *Annals of Applied Statistics (AOAS)* 14(4):2003-2019. [[PDF](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/Nonparametric-Bayesian-multiarmed-bandits-for-single-cell-experiment-design/10.1214/20-AOAS1370.short)] [[Code]](https://github.com/fedfer/HPYsinglecell)
+F Camerlenghi\*, B Dumitrascu\*, F Ferrari, BE Engelhardt, S Favaro (2020). Nonparametric Bayesian multi-armed bandits for single cell experiment design. *Annals of Applied Statistics (AOAS)* 14(4):2003-2019. [[PDF](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/Nonparametric-Bayesian-multiarmed-bandits-for-single-cell-experiment-design/10.1214/20-AOAS1370.short)] [[Code](https://github.com/fedfer/HPYsinglecell)]
 
 M Oliva, GTEx Consortium, et al. (2020). The impact of sex on gene expression across human tissues. *Science* 369(6509) 
 [[PDF](doi:10.1126/science.aba3066)]
