@@ -139,13 +139,11 @@ Gao, C., Zhao, S., McDowell, I. C., Brown, C. D., & Engelhardt, B. E.. (2016). C
 Tonner, P. D., Darnell, C. D., Engelhardt, B. E., & Schmid, A.. (2016). Detecting differential growth of microbial populations with Gaussian process regression. Genome Research, 27, 320-333.
 [PDF]
 
-Zhao, S., Gao, C., Mukherjee, S., & Engelhardt, B. E.. (2016). Bayesian group latent factor analysis with structured sparse priors. Journal of Machine Learning Research (JMLR).
-[PDF]
+S Zhao, C Gao, S Mukherjee, BE Engelhardt (2016). Bayesian group latent factor analysis with structured sparse priors. *Journal of Machine Learning Research (JMLR)*. 17(196):1−47. [[PDF](https://jmlr.org/papers/v17/14-472.html)]
 
 BE Engelhardt, CD Brown (2015). Diving deeper to predict noncoding sequence function. *Nature Methods (News & Views*; not peer-reviewed), 12(10):925–926. [[PDF](https://www.nature.com/articles/nmeth.3604)]
 
-van Den Berg, S. M., de Moor, M. H., Verweij, K. J., Krueger, R. F., Luciano, M., Vasquez, A. A., Matteson, L. K., Derringer, J., Esko, T., Amin, N., & others. (2015). Meta-analysis of genome-wide association studies for extraversion: Findings from the Genetics of Personality Consortium. *Behavior Genetics*, 1–13. doi:10.1007/s10519-015-9735-5
-[PDF]
+SM van Den Berg, MH de Moor, KJ Verweij, RF Krueger, M Luciano, AA Vasquez, LK Matteson, J Derringer, T Esko, N Amin, *et al.* (2015). Meta-analysis of genome-wide association studies for extraversion: Findings from the Genetics of Personality Consortium. *Behavior Genetics* 46(2):170–182. [[PDF](https://psycnet.apa.org/record/2015-42530-001)]
 
 W Zhang, T Spector, P Deloukas, JT Bell, BE Engelhardt (2015). Predicting genome-wide DNA methylation using methylation marks, genomic position, and DNA regulatory elements. *Genome Biology*, 16(1):14. [[PDF](doi:10.1186/s13059-015-0581-9)]
 
