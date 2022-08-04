@@ -40,7 +40,7 @@ SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and 
 
 G Martinet, A Strzalkowski, BE Engelhardt (2022). Variance minimization in the Wasserstein space for invariant causal prediction. *Artificial Intelligence and Statistics (AISTATS)*. [[PDF](https://proceedings.mlr.press/v151/martinet22a/martinet22a.pdf)] [[Code](https://github.com/astrzalk/WVM_reproducibility)] [[Post](https://stanfordbeehive.github.io/WMD/)]
 
-A Jones, FW Townes, D Li, BE Engelhardt (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [PDF] [[arXiv](https://arxiv.org/abs/2102.06731)] [[Code](https://github.com/andrewcharlesjones/cplvm)]
+A Jones, FW Townes, D Li, BE Engelhardt (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. *Annals of Applied Statistics (AOAS)*. [[PDF](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Contrastive-latent-variable-modeling-with-application-to-case-control-sequencing/10.1214/21-AOAS1534.short)] [[arXiv](https://arxiv.org/abs/2102.06731)] [[Code](https://github.com/andrewcharlesjones/cplvm)]
 
 S Cui, EC Yoo, D Li, K Laudanski, BE Engelhardt (2022). Hierarchical Gaussian processes and mixtures of experts to model Covid-19 patient trajectories. *Proceedings of the Pacific Symposium on Biocomputing (PSB)*. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/eyeshoe/cop-e-cat)]
 
@@ -51,7 +51,7 @@ B Dumitrascu, S Villar, DG Mixon, BE Engelhardt (2021). Optimal marker gene sele
 J Lu, B Dumitrascu, IC McDowell, AK Barrera, SM Leichter, TE Reddy, BE Engelhardt (2021). Causal network inference from gene transcriptional time series response to glucocorticoids. *PLoS Computational Biology* 17(1):e1008223.
 [[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008223)] [[Code](https://github.com/lujonathanh/BETS)]
 
-GW Gundersen, D Cai, C Zhou, BE Engelhardt, RP Adams (2021). Active multi-fidelity Bayesian online changepoint detection. *Uncertainty in Artifical Intelligence (UAI).* [[PDF](https://proceedings.mlr.press/v161/gundersen21a/gundersen21a.pdf)]
+GW Gundersen, D Cai, C Zhou, BE Engelhardt, RP Adams (2021). Active multi-fidelity Bayesian online changepoint detection. *Uncertainty in Artifical Intelligence (UAI).* [[PDF](https://proceedings.mlr.press/v161/gundersen21a/gundersen21a.pdf)] [[Code](https://github.com/gwgundersen/bocd)]
 
 A Wu, SA Nastase, CA Baldassano, NB Turk-Browne, KA Norman, BE Engelhardt, JW & Pillow (2021). Brain kernel: A new spatial covariance function for fMRI data. *NeuroImage* 15(245):118580. [[PDF](https://www.sciencedirect.com/science/article/pii/S1053811921008533?via%3Dihub)]
 
@@ -60,7 +60,7 @@ A Verma, SG Jena, DR Isakov, K Aoki, JE Toettcher, BE Engelhardt (2021). A self-
 A Mandyam, EC Yoo, J Soules, K Laudanski, BE Engelhardt (2021). COP-E-CAT: Cleaning and organization pipeline for EHR computational and analytic tasks. *Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB)*. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)] [[Code](https://github.com/aishwarya-rm/cop-e-cat)]
 
 GW Gundersen, MW Zhang, BE Engelhardt (2021). Latent variable modeling with random features. *Artificial Intelligence and Statistics (AISTATS).*
-[[PDF](http://proceedings.mlr.press/v130/gundersen21a/gundersen21a.pdf)]
+[[PDF](http://proceedings.mlr.press/v130/gundersen21a/gundersen21a.pdf)] [[Code](https://github.com/gwgundersen/rflvm)]
 
 N Prasad, BE Engelhardt, F Doshi-Velez (2020). Defining admissible rewards for high confidence policy evaluation. *ACM Conference on Health, Inference, and Learning (CHIL)*. [[PDF](https://dl.acm.org/doi/10.1145/3368555.3384450)]
 
@@ -105,11 +105,9 @@ D Aguiar, L Cheng, B Dumitrascu, F Mordelet, AA Pai, BE Engelhardt (2018). BIISQ
 
 AJB Chaney, BM Stewart, BE Engelhardt (2018). How algorithmic confounding in recommendation systems increases homogeneity and decreases utility. *Proceedings of the 12th ACM Conference on Recommender Systems.* [[PDF](https://dl.acm.org/doi/10.1145/3240323.3240370)]
 
-Dumitrascu*, B., Feng*, K., & Engelhardt, B. E.. (2018). PG-TS: Improved Thompson sampling for logistic contextual bandits. Proceedings of Neural Information Processing Systems (NeurIPS).
-[PDF]
+B Dumitrascu*, K Feng*, BE Engelhardt (2018). PG-TS: Improved Thompson sampling for logistic contextual bandits. *Proceedings of Neural Information Processing Systems (NeurIPS)*. [[PDF](https://proceedings.neurips.cc/paper/2018/file/ce6c92303f38d297e263c7180f03d402-Paper.pdf)]
 
-Cohen, J. D., Daw, N., Engelhardt, B., Hasson, U., Li, K., Niv, Y., Norman, K. A., Pillow, J., Ramadge, P. J., Turk-Browne, N. B., & Willke, T. L.. (2017). Computational approaches to fMRI analysis. Nature Neuroscience, 20(3), 304–313.
-[PDF]
+JD Cohen, N Daw, BE Engelhardt, U Hasson, K Li, Y Niv, KA Norman, J Pillow, PJ Ramadge, NB Turk-Browne, TL Willke (2017). Computational approaches to fMRI analysis. *Nature Neuroscience* 20(3):304–313. [[PDF](https://www.nature.com/articles/nn.4499)]
 
 Srivastava, S., Engelhardt, B. E., & Dunson, D. B.. (2017). Expandable factor analysis. Biometrika, asx030.
 [PDF]
