@@ -16,7 +16,7 @@ A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics an
 
 FW Townes, BE Engelhardt. Nonnegative spatial factorization. [[arXiv](https://arxiv.org/abs/2110.06122)] [[Code](https://github.com/willtownes/nsf-paper)]
 
-D Li\*, A Jones\*, BE Engelhardt. Probabilistic contrastive principal component analysis. [PDF] [[Code](https://github.com/andrewcharlesjones/pcpca)]
+D Li\*, A Jones\*, BE Engelhardt. Probabilistic contrastive principal component analysis. [[arXiv](https://arxiv.org/abs/2012.07977)] [[Code](https://github.com/andrewcharlesjones/pcpca)]
 
 D Li\*, A Jones\*, S Banerjee, BE Engelhardt. Multi-group Gaussian processes. [[arXiv](https://arxiv.org/abs/2110.08411)] [[Code](https://github.com/andrewcharlesjones/multi-group-GP)]
 
@@ -30,7 +30,7 @@ B Dumitrascu, K Feng, BE Engelhardt. GT-TS: Experimental design for maximizing c
 
 AJB Chaney, A Verma, Y Lee, BE Engelhardt. Nonparametric deconvolution models. [[arXiv](arxiv.org/abs/2003.07718)] [[Code](https://github.com/ajbc/ndm)]
 
-C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse and dense factors to model gene expression data affected by technical and biological covariates. [PDF]
+C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse and dense factors to model gene expression data affected by technical and biological covariates. [[arXiv](https://arxiv.org/abs/1310.4792)]
 
 ## Publications
 
