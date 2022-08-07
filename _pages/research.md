@@ -15,8 +15,10 @@ Measurements of biological systems have both noise and systematic bias, and ofte
 Electronic healthcare records (EHRs) hold the promise of studying the processes of hospital patient care, and automating and improving this care using machine learning approaches. Our group has worked on time-series models of EHR data, off-policy reinforcement learning methods to capture these data, and a number of applications of these approaches to patient scenarios, including ventilator weening, electrolyte repletion, and administration of lab tests.
 
 ## Longitudinal studies
+Longitudinal cohort studies, including the Fragile Families Child Wellbeing Study (FFCWS), the UK Biobank, and others, offer a glimpse into how life events or other factors may affect disease risk later in life. For example, in the FFCWS we showed in boys for the first time that early puberty is associated with high BMI only at the most extreme decile of BMI using an ordinal quantile regression model. Using Bayesian time-series models and tests for association, we are identifying meaningful longitudinal phenotypes and identifying associations with donor demographics, environmental factors, and genomic markers.
 
 ## The impact of trauma
+Physical and emotional trauma impacts mammalian systems in complex ways. In collaboration with sociologists, including the Fragile Family Study, and  biologists, including Dr. Jenny Tung and Prof Cate Pena, we are developing models to study the impact of trauma on cellular systems and the effects of those cellular modifications later in life. We are also searching for trauma buffers, or cellular modifications that protect humans and other mammals from the effects of trauma later in life, in order to identify possible treatments for specific types of trauma.
 
 ## Protein engineering
 
