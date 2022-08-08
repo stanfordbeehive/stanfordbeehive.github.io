@@ -36,11 +36,14 @@ Greg is in charge of slack so feel free to ask him questions!
 
 GitHub access: PrincetonUniversity, BEEHIVE
 
-Create a GitHub account.
-Petition for PrincetonUniversity GitHub access by filling out form at princeton.edu/researchcomputing
-Ask Barbara for Beehive access.
+*Create a GitHub account*
 
-Della Cluster
+
+*Sherlock Cluster (Stanford University)*
+
+*Winton Cluster (UCSF)*
+
+*Google Cloud Access*
 
 To access the Della cluster email cses@princeton.edu and CC Barbara. Derek and others have written a lot about how to get started on the cluster and what data are where. Please be sure that our group remains good cluster community members on Della, both space wise and usage-wise.
 To connect to Della from outside the university, tunnel into a university computer or set up VPN (requires Duo App)
@@ -49,6 +52,8 @@ This guide is useful for getting started with Della.
 *Expense reporting*
 
 Gladstone: email Liz.
+
+Stanford: 
 
 *Requesting meeting room space*
 
@@ -59,6 +64,20 @@ Stanford:
 *Email lists*
 
 It's a good idea to sign up for a few mailing lists that announce talks related to the groups research.
+
+**Rotation students: Expectations**
+
+
+*Rotation student funding*
+If you require funding as a rotation student, please let me know at our first meeting.
+
+**PhD students: Expectations**
+
+*PhD Funding*
+
+**Postdocs: Expectations**
+
+*Postdoc Funding*
 
 **Getting your cover article displayed at Gladstone**
 
