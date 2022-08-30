@@ -121,14 +121,12 @@ G Darnell, S Georgiev, S Mukherjee, BE Engelhardt (2017). Adaptive randomized di
 
 A Saha, Y Kim*, ADH Gewirtz*, B Jo, C Gao, IC McDowell, GTEx Consortium, BE Engelhardt\*, A Battle\* (2017). Co-expression networks reveal the tissue-specific regulation of transcription and splicing. *Genome Research* 27(11):1843–1858. [[PDF](https://genome.cshlp.org/content/27/11/1843.short)]
 
-Prasad, N., Cheng, L., Chivers, C., Draugelis, M., & Engelhardt, B. E.. (2017). A reinforcement learning approach to weaning of mechanical ventilation in intensive care units. Proceedings of Uncertainty in Artificial Intelligence (UAI), 1–9.
+Prasad, N., Cheng, L., Chivers, C., Draugelis, M., & Engelhardt, B. E.. (2017). A reinforcement learning approach to weaning of mechanical ventilation in intensive care units. *Proceedings of Uncertainty in Artificial Intelligence (UAI)*.
 [PDF]
 
-Jerfel, G., Basbug, M. E., & Engelhardt, B. E.. (2017). Dynamic collaborative filtering with compound Poisson factorization. Proceedings of Artificial Intelligence and Statistics (AISTATS), 54, 738-747.
-[PDF]
+G Jerfel, ME Basbug, BE Engelhardt (2017). Dynamic collaborative filtering with compound Poisson factorization. *Proceedings of Artificial Intelligence and Statistics (AISTATS)* 738-747. [[PDF](http://proceedings.mlr.press/v54/jerfel17a.html)]
 
-Basbug, M. E., & Engelhardt, B. E.. (2016). Hierarchical compound Poisson factorization. Proceedings of the International Conference on Machine Learning (ICML), 1795–1803.
-[PDF]
+ME Basbug, BE Engelhardt (2016). Hierarchical compound Poisson factorization. *Proceedings of the International Conference on Machine Learning (ICML)* 1795–1803. [[PDF](https://proceedings.mlr.press/v48/basbug16.html)]
 
 Gao, C., Zhao, S., McDowell, I. C., Brown, C. D., & Engelhardt, B. E.. (2016). Context-specific and differential gene co-expression networks via Bayesian biclustering models. PLoS Computational Biology, 12, e1004791.
 [PDF]
