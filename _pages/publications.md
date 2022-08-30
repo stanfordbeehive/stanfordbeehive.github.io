@@ -121,22 +121,19 @@ G Darnell, S Georgiev, S Mukherjee, BE Engelhardt (2017). Adaptive randomized di
 
 A Saha, Y Kim*, ADH Gewirtz*, B Jo, C Gao, IC McDowell, GTEx Consortium, BE Engelhardt\*, A Battle\* (2017). Co-expression networks reveal the tissue-specific regulation of transcription and splicing. *Genome Research* 27(11):1843–1858. [[PDF](https://genome.cshlp.org/content/27/11/1843.short)]
 
-Prasad, N., Cheng, L., Chivers, C., Draugelis, M., & Engelhardt, B. E.. (2017). A reinforcement learning approach to weaning of mechanical ventilation in intensive care units. *Proceedings of Uncertainty in Artificial Intelligence (UAI)*.
-[PDF]
+N Prasad, L-F Cheng, C Chivers, M Draugelis, BE Engelhardt (2017). A reinforcement learning approach to weaning of mechanical ventilation in intensive care units. *Proceedings of Uncertainty in Artificial Intelligence (UAI)*. [[PDF](https://auai.org/uai2017/proceedings/papers/209.pdf)]
 
 G Jerfel, ME Basbug, BE Engelhardt (2017). Dynamic collaborative filtering with compound Poisson factorization. *Proceedings of Artificial Intelligence and Statistics (AISTATS)* 738-747. [[PDF](http://proceedings.mlr.press/v54/jerfel17a.html)]
 
 ME Basbug, BE Engelhardt (2016). Hierarchical compound Poisson factorization. *Proceedings of the International Conference on Machine Learning (ICML)* 1795–1803. [[PDF](https://proceedings.mlr.press/v48/basbug16.html)]
 
-Gao, C., Zhao, S., McDowell, I. C., Brown, C. D., & Engelhardt, B. E.. (2016). Context-specific and differential gene co-expression networks via Bayesian biclustering models. PLoS Computational Biology, 12, e1004791.
-[PDF]
+C Gao, S Zhao, IC McDowell, CD Brown, BE Engelhardt (2016). Context-specific and differential gene co-expression networks via Bayesian biclustering models. *PLoS Computational Biology* 12:e1004791. [[PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004791)]
 
-Tonner, P. D., Darnell, C. D., Engelhardt, B. E., & Schmid, A.. (2016). Detecting differential growth of microbial populations with Gaussian process regression. Genome Research, 27, 320-333.
-[PDF]
+PD Tonner, CD Darnell, BE Engelhardt, A Schmid (2016). Detecting differential growth of microbial populations with Gaussian process regression. *Genome Research* 27:320-333. [[PDF](https://genome.cshlp.org/content/27/2/320.long)]
 
-S Zhao, C Gao, S Mukherjee, BE Engelhardt (2016). Bayesian group latent factor analysis with structured sparse priors. *Journal of Machine Learning Research (JMLR)*. 17(196):1−47. [[PDF](https://jmlr.org/papers/v17/14-472.html)]
+S Zhao, C Gao, S Mukherjee, BE Engelhardt (2016). Bayesian group latent factor analysis with structured sparse priors. *Journal of Machine Learning Research (JMLR)* 17(196):1−47. [[PDF](https://jmlr.org/papers/v17/14-472.html)]
 
-BE Engelhardt, CD Brown (2015). Diving deeper to predict noncoding sequence function. *Nature Methods (News & Views*; not peer-reviewed), 12(10):925–926. [[PDF](https://www.nature.com/articles/nmeth.3604)]
+BE Engelhardt, CD Brown (2015). Diving deeper to predict noncoding sequence function. *Nature Methods (News & Views*; not peer-reviewed) 12(10):925–926. [[PDF](https://www.nature.com/articles/nmeth.3604)]
 
 SM van Den Berg, MH de Moor, KJ Verweij, RF Krueger, M Luciano, AA Vasquez, LK Matteson, J Derringer, T Esko, N Amin, *et al.* (2015). Meta-analysis of genome-wide association studies for extraversion: Findings from the Genetics of Personality Consortium. *Behavior Genetics* 46(2):170–182. [[PDF](https://psycnet.apa.org/record/2015-42530-001)]
 
