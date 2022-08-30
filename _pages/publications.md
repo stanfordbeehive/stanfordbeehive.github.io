@@ -66,7 +66,7 @@ GW Gundersen, MW Zhang, BE Engelhardt (2021). Latent variable modeling with rand
 
 N Prasad, BE Engelhardt, F Doshi-Velez (2020). Defining admissible rewards for high confidence policy evaluation. *ACM Conference on Health, Inference, and Learning (CHIL)*. [[PDF](https://dl.acm.org/doi/10.1145/3368555.3384450)]
 
-L Cheng, B Dumitrascu, MM Zhang, C Chivers, ME Draugelis, K Li, BE Engelhardt (2020). Patient-specific effects of medication using latent force models with Gaussian processes. *Artificial Intelligence and Statistics (AISTATS).* [[PDF](https://proceedings.mlr.press/v108/cheng20c.html)]
+L-F Cheng, B Dumitrascu, MM Zhang, C Chivers, ME Draugelis, K Li, BE Engelhardt (2020). Patient-specific effects of medication using latent force models with Gaussian processes. *Artificial Intelligence and Statistics (AISTATS).* [[PDF](https://proceedings.mlr.press/v108/cheng20c.html)]
 
 M Salganik et al. (2020). Measuring the predictability of life outcomes with a scientific mass collaboration. *Proceedings of the National Academy of Sciences (PNAS)* 117(15):8398-8403. [[PDF](https://www.pnas.org/doi/10.1073/pnas.1915006117)]
 
@@ -78,7 +78,7 @@ M Oliva, GTEx Consortium, et al. (2020). The impact of sex on gene expression ac
 [[PDF](https://www.science.org/doi/10.1126/science.aba3066)]
 
 GTEx Consortium. (2020). The GTEx Consortium atlas of genetic regulatory effects across human tissues. *Science* 369:1318–1330. 
-[[PDF](https://doi:10.1126/science.aaz1776)]
+[[PDF](https://www.science.org/doi/10.1126/science.aaz1776)]
 
 D Gill, M Arvanitis, P Carter, AHI Cordero, B Jo, V Karhunen, SC Larsson, X Li, SM Lockhart, A Mason, E Pashos, A Saha, VY Tan, V Zuber, Y Bossé, S Fahle, K Hao, T Jiang, P Joubert, AC Lunt†, WH Ouwehand, DJ Roberts, W Timens, M van den Berge, NA Watkins, A Battle, AS Butterworth, J Danesh, ED Angelantonio, BE Engelhardt, JE Peters, DD Sin, S Burgess (2020). ACE inhibition and cardiometabolic risk factors, lung *ACE2* and *TMPRSS2* gene expression, and plasma *ACE2* levels: a Mendelian randomization study. *Royal Society of Open Science* 7:200958. [[PDF](https://pubmed.ncbi.nlm.nih.gov/33391794/)]
 
