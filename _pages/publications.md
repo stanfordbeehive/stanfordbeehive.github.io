@@ -75,10 +75,10 @@ L Cheng, G Darnell, C Chivers, ME Draugelis, K Li, BE Engelhardt (2020). Sparse 
 F Camerlenghi\*, B Dumitrascu\*, F Ferrari, BE Engelhardt, S Favaro (2020). Nonparametric Bayesian multi-armed bandits for single cell experiment design. *Annals of Applied Statistics (AOAS)* 14(4):2003-2019. [[PDF](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/Nonparametric-Bayesian-multiarmed-bandits-for-single-cell-experiment-design/10.1214/20-AOAS1370.short)] [[Code](https://github.com/fedfer/HPYsinglecell)]
 
 M Oliva, GTEx Consortium, et al. (2020). The impact of sex on gene expression across human tissues. *Science* 369(6509) 
-[[PDF](doi:10.1126/science.aba3066)]
+[[PDF](https://doi:10.1126/science.aba3066)]
 
 GTEx Consortium. (2020). The GTEx Consortium atlas of genetic regulatory effects across human tissues. *Science* 369:1318–1330. 
-[[PDF](doi:10.1126/science.aaz1776)]
+[[PDF](https://doi:10.1126/science.aaz1776)]
 
 D Gill, M Arvanitis, P Carter, AHI Cordero, B Jo, V Karhunen, SC Larsson, X Li, SM Lockhart, A Mason, E Pashos, A Saha, VY Tan, V Zuber, Y Bossé, S Fahle, K Hao, T Jiang, P Joubert, AC Lunt†, WH Ouwehand, DJ Roberts, W Timens, M van den Berge, NA Watkins, A Battle, AS Butterworth, J Danesh, ED Angelantonio, BE Engelhardt, JE Peters, DD Sin, S Burgess (2020). ACE inhibition and cardiometabolic risk factors, lung *ACE2* and *TMPRSS2* gene expression, and plasma *ACE2* levels: a Mendelian randomization study. *Royal Society of Open Science* 7:200958. [[PDF](https://pubmed.ncbi.nlm.nih.gov/33391794/)]
 
