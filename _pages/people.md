@@ -11,6 +11,8 @@ date: 2022-06-11
 
 ### Postdocs
 
+<img src="/assets/images/sarah.jpeg" width="150" height="190"> **Sarah Nyquist** is a postdoc at Gladstone Institutes (2022-present)
+
 <img src="/assets/images/archit.jpeg" width="150" height="190"> **Archit Verma** is a postdoc at Gladstone Institutes (2022-present)
 
 <img src="/assets/images/chi-yun-wu.jpeg" width="150" height="190"> **Chi-Yun Wu** is a postdoc at Gladstone Institutes (2022-present)
@@ -18,7 +20,19 @@ date: 2022-06-11
 
 ### PhD Students
 
+<img src="/assets/images/siena.jpeg" width="150" height="190"> **Siena Ang Dumas** is a PhD Student at Princeton University (Quantitative and Computational Biology; 2018-present)
+
+<img src="/assets/images/luis.jpeg" width="150" height="190"> **Luis Chumpitaz Diaz** is a PhD Student at Stanford University (Bioengineering; 2021-present)
+
+<img src="/assets/images/nhen.jpeg" width="150" height="190"> **Nhen Hunter** is a PhD Student at Stanford University (Genetics; 2021-present)
+
+<img src="/assets/images/andy.jpeg" width="150" height="190"> **Andrew Jones** is a PhD Student at Princeton University (Computer Science; 2018-present)
+
 <img src="/assets/images/aishwarya.jpeg" width="150" height="190"> **Aishwarya Mandyam** is a PhD Student at Stanford University (Computer Science; 2022-present)
+
+<img src="/assets/images/danny.jpeg" width="150" height="190"> **Danny Simpson** is a PhD Student at Princeton University (Quantitative and Computational Biology, joint with Britt Adamson; 2017-present)
+
+<img src="/assets/images/arpita.jpeg" width="150" height="190"> **Arpita Singhal** is a PhD Student at Stanford University (Computer Science, Joint with Maya Kasowski and Anshul Kundaje; 2021-present)
 
 
 ### Administrative Assistants
@@ -47,7 +61,7 @@ Roberta De Vito (Postdoc, 2016-2019) Assistant Professor, Brown University
 
 Chuan Gao (Postdoc, 2012-2015) Bioinformatician III, Duke University
 
-Ariel Gewirtz (PhD, 2015-2022) Scientific Programmer, Meliora
+Ariel Gewirtz (PhD, 2015-2022) Data Scientist, Meliora
 
 Gregory Gundersen (PhD, 2016-2021) Quantitative Researcher, Millennium
 
