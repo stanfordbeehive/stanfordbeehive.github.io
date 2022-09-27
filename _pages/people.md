@@ -35,7 +35,7 @@ Ashlee Benjamin (Postdoc, 2013-2015) Research Scientist, Duke University
 
 Mark Carty (Postdoc, 2016-2019) Computational Scientist, Tempus, Inc.
 
-Allison Chaney (Postdoc, 2016-2019) Assistant professor, Duke University
+Allison Chaney (Postdoc, 2016-2019) Assistant Professor, Duke University
 
 Li-Fang Cheng (PhD, 2014-2019) Computational Scientist at Verily
 
@@ -65,11 +65,11 @@ Niranjani Prasad (PhD, 2015-2020) Researcher, Microsoft Research.
 
 [Sanvesh Srivastava](https://stat.uiowa.edu/people/sanvesh-srivastava) (Postdoc, 2013-2015) Assistant Professor, University of Iowa
 
-[Will Townes](https://willtownes.github.io/) (Postdoc, 2019-2022) Assistant Proessor, Carnegie Mellon University
+[Will Townes](https://willtownes.github.io/) (Postdoc, 2019-2022) Assistant Professor, Carnegie Mellon University
 
 Archit Verma (PhD, 2016-2021) Postdoc, BEEHIVE
 
-[Michael Zhang](https://mikezhang.com/)(Postdoc, 2018-2020) Assistant Professor, University of Hong Kong
+[Michael Zhang](https://mikezhang.com/) (Postdoc, 2018-2020) Assistant Professor, University of Hong Kong
 
 Shiwen Zhao (PhD 2012-2016) Machine Learning Research Scientist, Apple
 
