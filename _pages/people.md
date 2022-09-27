@@ -44,7 +44,7 @@ Roberta De Vito (Postdoc, 2016-2019) Assistant Professor, Brown University
 
 Chuan Gao (Postdoc, 2012-2015) Bioinformatician III, Duke University
 
-Ariel Gewirtz (PhD, 2015-2022)
+Ariel Gewirtz (PhD, 2015-2022) Scientific Programmer, Meliora
 
 Gregory Gundersen (PhD, 2016-2021) Quantitative Researcher, Millennium
 
