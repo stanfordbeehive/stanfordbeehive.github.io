@@ -24,7 +24,7 @@ date: 2022-06-11
 
 <img src="/assets/images/Diana.jpeg" width="150" height="190"> **Diana Cai** is a PhD Student at Princeton University (Computer Science; 2017-present)
 
-<img src="/assets/images/luis.jpg" width="150" height="190"> **Luis Chumpitaz Diaz** is a PhD Student at Stanford University (BioPhysics; 2021-present)
+<img src="/assets/images/luis.JPG" width="150" height="190"> **Luis Chumpitaz Diaz** is a PhD Student at Stanford University (BioPhysics; 2021-present)
 
 <img src="/assets/images/promise.jpeg" width="150" height="190"> **Promise Ekpo** is a Master's Student at Princeton University (Computer Science; 2021-present)
 
