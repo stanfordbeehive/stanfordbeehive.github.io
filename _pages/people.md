@@ -18,11 +18,15 @@ date: 2022-06-11
 <img src="/assets/images/chi-yun-wu.jpeg" width="150" height="190"> **Chi-Yun Wu** is a postdoc at Gladstone Institutes (2022-present)
 
 
-### PhD Students
+### Graduate Students
 
 <img src="/assets/images/siena.jpeg" width="150" height="190"> **Siena Ang Dumas** is a PhD Student at Princeton University (Quantitative and Computational Biology; 2018-present)
 
+<img src="/assets/images/Diana.jpeg" width="150" height="190"> **Diana Cai** is a PhD Student at Princeton University (Computer Science; 2017-present)
+
 <img src="/assets/images/luis.jpeg" width="150" height="190"> **Luis Chumpitaz Diaz** is a PhD Student at Stanford University (Bioengineering; 2021-present)
+
+<img src="/assets/images/promise.jpeg" width="150" height="190"> **Promise Ekpo** is a Master's Student at Princeton University (Computer Science; 2021-present)
 
 <img src="/assets/images/nhen.jpeg" width="150" height="190"> **Nhen Hunter** is a PhD Student at Stanford University (Genetics; 2021-present)
 
