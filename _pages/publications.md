@@ -36,7 +36,7 @@ C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse a
 
 FW Townes, BE Engelhardt (2022). Nonnegative spatial factorization. *Nature Methods (accepted)* [[arXiv](https://arxiv.org/abs/2110.06122)] [[Code](https://github.com/willtownes/nsf-paper)]
 
-AD Gewirtz, FW Townes, BE Engelhardt (2022). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. *Life Scienec Alliance (to appear)*. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.27.466156)] [[Code](https://github.com/gewirtz/TBLDA)] [[Post](https://stanfordbeehive.github.io/TBLDA/)]
+AD Gewirtz, FW Townes, BE Engelhardt (2022). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. *Life Science Alliance* 5(12):e202101297. [[bioRxiv](https://www.life-science-alliance.org/content/5/12/e202101297)] [[Code](https://github.com/gewirtz/TBLDA)] [[Post](https://stanfordbeehive.github.io/TBLDA/)]
 
 SG Jena, AG Goglia, BE Engelhardt (2022). Towards ‘end-to-end’ analysis and understanding of biological timecourse data. *Biochemical Journal* 479(11): 1257–1263. [[PDF](https://doi.org/10.1042/BCJ20220053)]
 
