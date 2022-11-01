@@ -10,11 +10,7 @@ AD Gewirtz, FW Townes, BE Engelhardt (2022). Expression QTLs in single-cell sequ
 
 A Jones, G Gundersen, BE Engelhardt (2022). Linking histology and molecular state across human tissues. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.10.495669v1)]
 
-T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)] [[Code](https://github.com/tianafitz/PRRR)]
-
 A Mandyam, A Jones, K Laudanski, BE Engelhardt. Nested policy reinforcement learning. [[arXiv](https://arxiv.org/abs/2110.02879)]
-
-A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [[Code](https://github.com/andrewcharlesjones/spatial-alignment)] [[Post](https://stanfordbeehive.github.io/GPSA/)]
 
 D Li\*, A Jones\*, BE Engelhardt. Probabilistic contrastive principal component analysis. [[arXiv](https://arxiv.org/abs/2012.07977)] [[Code](https://github.com/andrewcharlesjones/pcpca)]
 
@@ -34,7 +30,11 @@ C Gao, CD Brown, BE Engelhardt. A latent factor model with a mixture of sparse a
 
 ## Publications
 
-FW Townes, BE Engelhardt (2022). Nonnegative spatial factorization. *Nature Methods (accepted)* [[arXiv](https://arxiv.org/abs/2110.06122)] [[Code](https://github.com/willtownes/nsf-paper)]
+A Jones, FW Townes, D Li, BE Engelhardt (2022). Alignment of spatial genomics and histology data using deep Gaussian processes. *Nature Methods (accepted)* [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.10.475692)] [[Code](https://github.com/andrewcharlesjones/spatial-alignment)] [[Post](https://stanfordbeehive.github.io/GPSA/)]
+
+T Fitzgerald, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. *BMC Bioinformatics (accepted)* [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494236)] [[Code](https://github.com/tianafitz/PRRR)]
+
+FW Townes, BE Engelhardt (2022). Nonnegative spatial factorization for spatial genomics data. *Nature Methods (in press)* [[arXiv](https://arxiv.org/abs/2110.06122)] [[Code](https://github.com/willtownes/nsf-paper)]
 
 AD Gewirtz, FW Townes, BE Engelhardt (2022). Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues. *Life Science Alliance* 5(12):e202101297. [[bioRxiv](https://www.life-science-alliance.org/content/5/12/e202101297)] [[Code](https://github.com/gewirtz/TBLDA)] [[Post](https://stanfordbeehive.github.io/TBLDA/)]
 
