@@ -35,4 +35,4 @@ There is a lot of bias against applications without research experience for a Ph
 
 *Where do I find out what work your group is doing?*
 
-So many places! Mostly, current [papers and preprints](https://stanfordbeehive.github.io/papers), but also through presentations from affiliated group members at conferences, and writeups from news sources.
+So many places! Mostly, current [papers and preprints](https://stanfordbeehive.github.io/publications), but also through presentations from affiliated group members at conferences, and writeups from news sources.
