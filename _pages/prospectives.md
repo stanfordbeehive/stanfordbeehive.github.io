@@ -13,6 +13,10 @@ date: 2022-11-01
 
 No, I do not feel comfortable doing this. First, I receive a large number of these requests, and I cannot honor all of them while giving appropriate time to my current group members. Second, I believe it unfairly advantages those students that have received coaching on graduate school admissions. I am very eager, however, to talk with you about my group and the Stanford programs more generally once you have been accepted into a graduate program at Stanford.
 
+*Are you taking students this year?*
+
+If you are a stellar student and a great match for my group, there will always be a spot for you here. It matters more that you are a cultural fit for my group rather than if you have exactly the right background or experience -- students and postdocs in my group have had backgrounds that include mathematics, genetics, molecular biology, developmental biology, machine learning, databases, computational biology, biophysics, bioengineering, electrical engineering and optimization, and others.
+
 *What advice do you have for applying to graduate school?*
 
 Take or leave this advice, but, first, be sure you want to go to graduate school! Give your letter writers plenty of lead time (at least two months), and tend toward academics for letters because they tend to write letters in a language that admissions committees understand well. Prepare your research statement carefully, focusing on your research experiences and the process of research, obstacles you have overcome, and your hopes and dreams for the future. You can let your passions show in this statement, but we also look for concrete examples of how you interact with research problems.
