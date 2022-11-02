@@ -1,4 +1,8 @@
-
+---
+title: "Undergraduate Publications"
+permalink: /undergraduate_pubs/
+date: 2022-06-11
+---
 
 **Tiana Fitzgerald**, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. *BMC Bioinformatics (accepted)* [bioRxiv] [Code]
 
