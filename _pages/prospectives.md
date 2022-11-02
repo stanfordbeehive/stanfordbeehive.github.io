@@ -7,6 +7,12 @@ date: 2022-11-01
 
 **I am a Professor at Stanford University, and I am able to work with students accepted into graduate programs at Stanford**
 
+Some programs that students I work with have come from:
+[Stanford's Biomedical Informatics Program](https://med.stanford.edu/bmi.html)
+[Stanford Biosciences, including 14 different programs](https://biosciences.stanford.edu/program-overview/)
+[Stanford Computer Science](https://cs.stanford.edu/admissions/phd)
+[Stanford Statistics and Data Science](https://statistics.stanford.edu/admissions/graduate-admissions)
+
 **Frequently Asked Questions**
 
 *Can you talk with me before I submit my materials for graduate admissions?* 
