@@ -23,7 +23,7 @@ It means that you will have two institutes to call home rather than one! Student
 
 *What advice do you have for applying to graduate school?*
 
-Take or leave this advice, but, first, be sure you want to go to graduate school! Give your letter writers plenty of lead time (at least two months), and tend toward academics for letters because they tend to write letters in a language that admissions committees understand well. Prepare your research statement carefully, focusing on your research experiences and the process of research, obstacles you have overcome, and your hopes and dreams for the future. You can let your passions show in this statement, but we also look for concrete examples of how you interact with research problems.
+Take or leave this advice, but, first, be sure you want to go to graduate school! Give your letter writers plenty of lead time (at least two months), and tend toward academics for letters because they tend to write letters in a language that admissions committees understand well. Prepare your research statement carefully, focusing on your research experiences and the process of research, obstacles you have overcome, and your hopes and dreams for the future. You can let your passions show in this statement, but we also look for concrete examples of how you interact with research problems. Apply for funding in parallel if you can, such as NSF GRFP.
 
 *If I have a few low grades on my transcript, should I apply to a Master's program?*
 
