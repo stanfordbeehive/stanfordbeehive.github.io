@@ -4,6 +4,8 @@ permalink: /undergraduate_pubs/
 date: 2022-06-11
 ---
 
+A number of very talented undergraduate students have published with me and others in my group. I want to highlight these students and papers here, because I am so proud of this work. Undergraduate researcher in **bold**.
+
 **Tiana Fitzgerald**, A Jones, BE Engelhardt (2022). A Poisson reduced-rank regression model for association mapping in sequencing data. *BMC Bioinformatics (accepted)* [bioRxiv] [Code]
 
 R de Vito, **Isabella N Grabski**, D Aguiar, LM Schneper, A Verma, J Castillo Fernandez, C Mitchell, JT Bell, S McLanahan, DA Notterman, BE Engelhardt. Differentially methylated regions and methylation QTLs for teen depression and early puberty in the Fragile Families Child Wellbeing Study. [bioRxiv]
