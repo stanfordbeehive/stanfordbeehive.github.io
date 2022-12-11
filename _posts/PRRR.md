@@ -2,9 +2,9 @@
 
 Tiana Fitzgerald, Andy Jones, Barbara Engelhardt
 
-Our paper developing count-based model for association mapping published in #BMCBioinformatics! Great work by amazing Princeton undergrad (Tiana Fitzgerald)[https://www.twitter.com/@tianafitz_] and PhD student (Andy Jones)[https://twitter.com/andy_c_jones] 
+Our paper developing count-based model for association mapping published in #BMCBioinformatics! Great work by amazing Princeton undergrad [Tiana Fitzgerald](https://www.twitter.com/@tianafitz_) and PhD student [Andy Jones](https://twitter.com/andy_c_jones).
 
-(A Poisson reduced-rank regression model for association mapping in sequencing data)[https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05054-6]
+[A Poisson reduced-rank regression model for association mapping in sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05054-6)
 
 We develop a Poisson reduced-rank regression model to identify low-dimensional associations in high-dimensional data.
 
@@ -30,5 +30,5 @@ As a final application, we used PRRR to perform low-rank eQTL mapping in bulk RN
 
 ![prrr-gtex-eqtls(/assets/images/prrr-fig5.tiff)
 
-Code for the model and experiments in the paper is here: https://github.com/tianafitz/PRRR. Try it out and let us know what you think!
+Code for the model and experiments in the paper is [here](https://github.com/tianafitz/PRRR). Try it out and let us know what you think!
 
