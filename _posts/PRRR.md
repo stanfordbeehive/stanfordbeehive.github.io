@@ -24,11 +24,11 @@ In characterizing pancreatic cell types, we find that PRRR's learned latent fact
 
 We also applied PRRR to spatial transcriptomics data, where we find that the model can identify associations between spatial coordinates and gene expression.
 
-![prrr-mouse-spatial(/assets/images/prrr-fig4.tiff)
+![prrr-mouse-spatial](/assets/images/prrr-fig4.tiff)
 
 As a final application, we used PRRR to perform low-rank eQTL mapping in bulk RNA-seq data from GTEx. Applied to liver tissue samples, we find that the model's latent factors pick up correlated eQTLs corresponding to interferon gamma and inflammatory responses.
 
-![prrr-gtex-eqtls(/assets/images/prrr-fig5.tiff)
+![prrr-gtex-eqtls](/assets/images/prrr-fig5.tiff)
 
 Code for the model and experiments in the paper is [here](https://github.com/tianafitz/PRRR). Try it out and let us know what you think!
 
